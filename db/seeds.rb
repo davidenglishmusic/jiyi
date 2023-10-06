@@ -17,8 +17,8 @@
   { id: 4, original: '我', pronunciation: 'wǒ', meaning: 'me, I' },
   { id: 5, original: '叫', pronunciation: 'jiào', meaning: 'to be called' },
   { id: 6, original: '我', pronunciation: 'wǒ', meaning: 'me, I' },
-  { id: 7, original: '什么', pronuncation: 'shénme', meaning: 'what' },
-  { id: 8, original: '名字', pronuncation: 'míngzì', meaning: 'name' }
+  { id: 7, original: '什么', pronunciation: 'shénme', meaning: 'what' },
+  { id: 8, original: '名字', pronunciation: 'míngzì', meaning: 'name' }
 ].each do |t|
   Translation.find_or_create_by(id: t[:id], original: t[:original], pronunciation: t[:pronunciation], meaning: t[:meaning])
 end
