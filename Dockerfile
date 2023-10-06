@@ -61,7 +61,7 @@ RUN useradd rails --create-home --shell /bin/bash && \
 USER rails:rails
 
 # Deployment options
-ENV DATABASE_URL="sqlite3:///data/production.sqlite3"
+ENV DATABASE_URL="sqlite3:///data/jiyi_production"
 
 # Entrypoint prepares the database.
 ENTRYPOINT ["/rails/bin/docker-entrypoint"]
