@@ -34,7 +34,7 @@
   { id: 21, original: '加拿大', pronunciation: 'jiānádà', meaning: 'Canada' },
   { id: 22, original: '你是老师吗', pronunciation: 'nǐ shì lǎoshī ma', meaning: 'Are you the teacher?' }
 ].each do |t_data|
-  t = Translation.find(t_data[:id])
+  t = Translation.find_by(id: t_data[:id])
   if t
     t.update(original: t_data[:original], pronunciation: t_data[:pronunciation], meaning: t_data[:meaning])
   else
