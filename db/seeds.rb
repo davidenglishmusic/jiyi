@@ -22,7 +22,7 @@
   { id: 9, original: '你好', pronunciation: 'nǐ hǎo', meaning: 'Hello' },
   { id: 10, original: '您好', pronunciation: 'nǐ hǎo', meaning: 'Hello (formal)' },
   { id: 11, original: '你们好', pronunciation: 'nǐmen hǎo', meaning: 'Hello (plural)' },
-  { id: 12, original: '你叫什么名字', pronunciation: 'nǐmen hǎo', meaning: 'What is your name?' },
+  { id: 12, original: '你叫什么名字', pronunciation: 'Nǐ jiào shénme míngzì?', meaning: 'What is your name?' },
   { id: 13, original: '老师', pronunciation: 'lǎoshī', meaning: 'teacher' },
   { id: 14, original: '是', pronunciation: 'shì', meaning: 'to be' },
   { id: 15, original: '人', pronunciation: 'rén', meaning: 'person' },
@@ -32,7 +32,17 @@
   { id: 19, original: '他', pronunciation: 'tā', meaning: 'he' },
   { id: 20, original: '她', pronunciation: 'tā', meaning: 'she' },
   { id: 21, original: '加拿大', pronunciation: 'jiānádà', meaning: 'Canada' },
-  { id: 22, original: '你是老师吗', pronunciation: 'nǐ shì lǎoshī ma', meaning: 'Are you the teacher?' }
+  { id: 22, original: '你是老师吗', pronunciation: 'Nǐ shì lǎoshī ma?', meaning: 'Are you the teacher?' },
+  { id: 23, original: '我不是老师,我是学生.你呢?', pronunciation: 'Wǒ bù shì lǎoshī, wǒ shì xuéshēng. Nǐ ne?', meaning: 'I am not teacher, I am a student. And you?' },
+  { id: 24, original: '我也是学生.', pronunciation: 'Wǒ yě shì xuéshēng.', meaning: 'I am also a student.' },
+  { id: 25, original: '你是中国人呢?', pronunciation: 'Nǐ shì Zhōngguó rén ma?', meaning: 'Are you Chinese?' },
+  { id: 26, original: '我不是中国人,我是美国人.', pronunciation: 'Wǒ bù shì Zhōngguó rén, wǒ shì měiguó rén.', meaning: 'I am not Chinese. I am American.' },
+  { id: 27, original: '谢谢你!', pronunciation: 'Xièxiè nǐ!', meaning: 'Thank you!' },
+  { id: 28, original: '不客气!', pronunciation: 'Bù kèqì!', meaning: "You're welcome!" },
+  { id: 29, original: '对不起!', pronunciation: 'Duìbùqǐ!', meaning: "I'm sorry!" },
+  { id: 30, original: '没关系!', pronunciation: 'Méi guānxì!', meaning: "That's okay!" },
+  { id: 31, original: '再见!', pronunciation: 'Zài jiàn!', meaning: "Goodbye!" },
+  { id: 32, original: '明天见!', pronunciation: 'Míngtiān jiàn!', meaning: "See you tomorrow!" }
 ].each do |t_data|
   t = Translation.find_by(id: t_data[:id])
   if t
