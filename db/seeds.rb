@@ -28,7 +28,11 @@
   { id: 15, original: '人', pronunciation: 'rén', meaning: 'person' },
   { id: 16, original: '学生', pronunciation: 'xuéshēng', meaning: 'student' },
   { id: 17, original: '喜欢', pronunciation: 'xǐhuān', meaning: 'to like' },
-  { id: 18, original: '中国', pronunciation: 'zhōngguó', meaning: 'Chinese' }
+  { id: 18, original: '中国', pronunciation: 'zhōngguó', meaning: 'Chinese' },
+  { id: 19, original: '他', pronunciation: 'tā', meaning: 'he' },
+  { id: 20, original: '她', pronunciation: 'tā', meaning: 'she' },
+  { id: 21, original: '加拿大', pronunciation: 'jiānádà', meaning: 'Canada' },
+  { id: 22, original: '你是老师吗', pronunciation: 'nǐ shì lǎoshī ma', meaning: 'Are you the teacher?' }
 ].each do |t_data|
   t = Translation.find(t_data[:id])
   if t
