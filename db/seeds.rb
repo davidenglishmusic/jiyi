@@ -49,7 +49,14 @@
   { id: 34, original: '同事', pronunciation: 'tóngshì', meaning: 'colleague' },
   { id: 35, original: '朋友', pronunciation: 'péngyǒu', meaning: 'friend' },
   { id: 36, original: '好友', pronunciation: 'hǎoyǒu', meaning: 'good friend' },
-  { id: 37, original: '名事', pronunciation: 'míng xīng', meaning: 'celebrity' }
+  { id: 37, original: '名事', pronunciation: 'míng xīng', meaning: 'celebrity' },
+  { id: 38, original: '中国文', pronunciation: 'zhōngguó wén', meaning: 'Chinese (characters)' },
+  { id: 39, original: '英文', pronunciation: 'yīngwén', meaning: 'English (characters)' },
+  { id: 40, original: '汉语', pronunciation: 'hànyǔ', meaning: 'Chinese (spoken)' },
+  { id: 41, original: '英语', pronunciation: 'yīngyǔ', meaning: 'English (spoken)' },
+  { id: 42, original: '她是谁?', pronunciation: 'Tā shì shéi?', meaning: 'Who is she?' },
+  { id: 43, original: '她是我的汉语老师,她叫李悦.', pronunciation: 'Tā shì wǒ de hànyǔ lǎoshī, tā jiào Lǐ Yuè.',
+    meaning: 'She is my Chinese teacher, she is called Li Yue.' }
 ].each do |t_data|
   t = Translation.find_by(id: t_data[:id])
   if t
