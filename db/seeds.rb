@@ -18,7 +18,27 @@
   { id: 5, original: '叫', pronunciation: 'jiào', meaning: 'to be called' },
   { id: 6, original: '我', pronunciation: 'wǒ', meaning: 'me, I' },
   { id: 7, original: '什么', pronunciation: 'shénme', meaning: 'what' },
-  { id: 8, original: '名字', pronunciation: 'míngzì', meaning: 'name' }
-].each do |t|
-  Translation.find_or_create_by(id: t[:id], original: t[:original], pronunciation: t[:pronunciation], meaning: t[:meaning])
+  { id: 8, original: '名字', pronunciation: 'míngzì', meaning: 'name' },
+  { id: 9, original: '你好', pronunciation: 'nǐ hǎo', meaning: 'Hello' },
+  { id: 10, original: '您好', pronunciation: 'nǐ hǎo', meaning: 'Hello (formal)' },
+  { id: 11, original: '你们好', pronunciation: 'nǐmen hǎo', meaning: 'Hello (plural)' },
+  { id: 12, original: '你叫什么名字', pronunciation: 'nǐmen hǎo', meaning: 'What is your name?' },
+  { id: 13, original: '老师', pronunciation: 'lǎoshī', meaning: 'teacher' },
+  { id: 14, original: '是', pronunciation: 'shì', meaning: 'to be' },
+  { id: 15, original: '人', pronunciation: 'rén', meaning: 'person' },
+  { id: 16, original: '学生', pronunciation: 'xuéshēng', meaning: 'student' },
+  { id: 17, original: '喜欢', pronunciation: 'xǐhuān', meaning: 'to like' },
+  { id: 18, original: '中国', pronunciation: 'zhōngguó', meaning: 'Chinese' }
+].each do |t_data|
+  t = Translation.find(t_data[:id])
+  if t
+    t.update(original: t_data[:original], pronunciation: t_data[:pronunciation], meaning: t_data[:meaning])
+  else
+    Translation.create(
+      id: t_data[:id],
+      original: t_data[:original],
+      pronunciation: t_data[:pronunciation],
+      meaning: t_data[:meaning]
+    )
+  end
 end
