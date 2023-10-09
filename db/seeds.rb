@@ -68,7 +68,23 @@
   { id: 50, original: '国家', pronunciation: 'guó jiā', meaning: 'country' },
   { id: 51, original: '有', pronunciation: 'yǒu', meaning: 'to have' },
   { id: 52, original: '没有', pronunciation: 'méi yǒu', meaning: 'to not have' },
-  { id: 53, original: '口', pronunciation: 'kǒu', meaning: '(measure word for number of family members)' }
+  { id: 53, original: '口', pronunciation: 'kǒu', meaning: '(measure word for number of family members)' },
+  { id: 54, original: '岁', pronunciation: 'suì', meaning: 'years of age' },
+  { id: 55, original: '今年', pronunciation: 'jīnnián', meaning: 'this year' },
+  { id: 56, original: '明年', pronunciation: 'míngnián', meaning: 'next year' },
+  { id: 57, original: '去年', pronunciation: 'qùnián', meaning: 'last year' },
+  { id: 58, original: '爸爸', pronunciation: 'bàba', meaning: 'dad' },
+  { id: 59, original: '妈妈', pronunciation: 'māmā', meaning: 'mom' },
+  { id: 60, original: '姐姐', pronunciation: 'jiějiě', meaning: 'older sister' },
+  { id: 61, original: '妹妹', pronunciation: 'mèimei', meaning: 'younger sister' },
+  { id: 62, original: '哥哥', pronunciation: 'gēgē', meaning: 'older brother' },
+  { id: 63, original: '弟弟', pronunciation: 'dìdì', meaning: 'younger brother' },
+  { id: 64, original: '你家有几口人', pronunciation: 'Nǐ jiā yǒu jǐ kǒu rén?',
+    meaning: 'How many family members do you have?' },
+  { id: 65, original: '我家有四口人.有爸爸,妈妈,哥哥和我.', pronunciation: 'Wǒ jiā yǒu sì kǒu rén. Yǒu bàba, māmā, gēgē, hé wǒ.',
+    meaning: 'I have four family members. I have dad, mom, older brother, and me.' },
+  { id: 66, original: '你今年多大了?', pronunciation: 'Nǐ jīnnián duōdàle?', meaning: 'How old are you this year?' },
+  { id: 67, original: '我今年二十岁.', pronunciation: 'Wǒ jīnnián èr shí suì.', meaning: 'I am twenty years old.' }
 ].each do |t_data|
   t = Translation.find_by(id: t_data[:id])
   if t
