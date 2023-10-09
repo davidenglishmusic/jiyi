@@ -61,7 +61,7 @@
   { id: 45, original: '他是我同学', pronunciation: 'Tā shì wǒ tóngxué.', meaning: 'He is my classmate.' },
   { id: 46, original: '她呢? 她是你同学吗？', pronunciation: 'Tā ne? Tā shì nǐ tóngxué ma?',
     meaning: 'And her? She is also your classmate?' },
-  { id: 47, original: '她不是我同学. 她是我朋友/', pronunciation: 'Tā bù shì wǒ tóngxué. Tā shì wǒ péngyǒu.',
+  { id: 47, original: '她不是我同学. 她是我朋友.', pronunciation: 'Tā bù shì wǒ tóngxué. Tā shì wǒ péngyǒu.',
     meaning: 'She is not my classmate. She is my friend.' },
   { id: 48, original: '家', pronunciation: 'jiā', meaning: 'family' },
   { id: 49, original: '家人', pronunciation: 'jiā rén', meaning: 'family member' },
