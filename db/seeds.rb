@@ -84,7 +84,16 @@
   { id: 65, original: '我家有四口人.有爸爸,妈妈,哥哥和我.', pronunciation: 'Wǒ jiā yǒu sì kǒu rén. Yǒu bàba, māmā, gēgē, hé wǒ.',
     meaning: 'I have four family members. I have dad, mom, older brother, and me.' },
   { id: 66, original: '你今年多大了?', pronunciation: 'Nǐ jīnnián duōdàle?', meaning: 'How old are you this year?' },
-  { id: 67, original: '我今年二十岁.', pronunciation: 'Wǒ jīnnián èr shí suì.', meaning: 'I am twenty years old.' }
+  { id: 67, original: '我今年二十岁.', pronunciation: 'Wǒ jīnnián èr shí suì.', meaning: 'I am twenty years old.' },
+  { id: 68, original: '菜', pronunciation: 'cài', meaning: 'vegetable, food' },
+  { id: 69, original: '做', pronunciation: 'zuò', meaning: 'to do, to work' },
+  { id: 70, original: '好吃', pronunciation: 'hǎo chī', meaning: 'delicious' },
+  { id: 71, original: '听', pronunciation: 'tīng', meaning: 'to listen' },
+  { id: 72, original: '说', pronunciation: 'shuō', meaning: 'to speak' },
+  { id: 73, original: '读', pronunciation: 'dú', meaning: 'to read' },
+  { id: 74, original: '写', pronunciation: 'xiě', meaning: 'to write' },
+  { id: 75, original: '字', pronunciation: 'zì', meaning: 'character' },
+  { id: 76, original: '汉字', pronunciation: 'hànzì', meaning: 'Chinese character' }
 ].each do |t_data|
   t = Translation.find_by(id: t_data[:id])
   if t
