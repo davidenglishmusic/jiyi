@@ -93,7 +93,16 @@
   { id: 73, original: '读', pronunciation: 'dú', meaning: 'to read' },
   { id: 74, original: '写', pronunciation: 'xiě', meaning: 'to write' },
   { id: 75, original: '字', pronunciation: 'zì', meaning: 'character' },
-  { id: 76, original: '汉字', pronunciation: 'hànzì', meaning: 'Chinese character' }
+  { id: 76, original: '汉字', pronunciation: 'hànzì', meaning: 'Chinese character' },
+  { id: 77, original: '我会做菜,我喜欢中国菜.你呢?', pronunciation: 'Wǒ huì zuò cài, wǒ xǐhuān zhōngguó cài. Nǐ ne?',
+    meaning: 'I can cook. I like Chinese food. And you?' },
+  { id: 78, original: '我会做法国菜.我很喜欢法国菜.', pronunciation: 'Wǒ huì zuò fàguó cài. Wǒ hěn xǐhuān fàguó cài.',
+    meaning: 'I can cook French food. I really like French food.' },
+  { id: 79, original: '你会写汉字吗？', pronunciation: 'Nǐ huì xiě hànzì ma?', meaning: 'Can you write Chinese characters?' },
+  { id: 80, original: '我会写.', pronunciation: 'Wǒ huì xiě.', meaning: 'I can write.' },
+  { id: 81, original: '这个字怎么写?', pronunciation: 'Zhège zì zěnme xiě?', meaning: 'How do you write this character?' },
+  { id: 82, original: '对不起,这个字我会读,不会写', pronunciation: 'Duìbùqǐ zhège zì wǒ huì dú, bù huì xiě',
+    meaning: 'Sorry. I can read that word, but cannot write.' }
 ].each do |t_data|
   t = Translation.find_by(id: t_data[:id])
   if t
