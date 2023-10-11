@@ -110,7 +110,15 @@
   { id: 87, original: '那', pronunciation: 'nà', meaning: 'that' },
   { id: 88, original: '件', pronunciation: 'jiàn', meaning: 'item' },
   { id: 89, original: '双', pronunciation: 'shuāng', meaning: 'pair' },
-  { id: 90, original: '个', pronunciation: 'gè', meaning: '(measure word)' }
+  { id: 90, original: '个', pronunciation: 'gè', meaning: '(measure word)' },
+  { id: 91, original: '裤子', pronunciation: 'kùzi', meaning: 'pants' },
+  { id: 92, original: '裙子', pronunciation: 'qúnzi', meaning: 'dress' },
+  { id: 93, original: 'T恤', pronunciation: 'T xù', meaning: 'T-shirt' },
+  { id: 94, original: '衬衫', pronunciation: 'chèn shān', meaning: 'shirt' },
+  { id: 95, original: '袜子', pronunciation: 'wàzi', meaning: 'socks' },
+  { id: 96, original: '手套', pronunciation: 'shǒutào', meaning: 'gloves' },
+  { id: 97, original: '鞋', pronunciation: 'xié', meaning: 'shoes' },
+  { id: 98, original: '杯子', pronunciation: 'bēizi', meaning: 'cup' }
 ].each do |t_data|
   t = Translation.find_by(id: t_data[:id])
   if t
