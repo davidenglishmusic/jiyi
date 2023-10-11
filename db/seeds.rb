@@ -129,7 +129,11 @@
   { id: 103, original: '你好请问这件衬衫多少钱？', pronunciation: 'Nǐ hǎo, qǐngwèn zhè jiàn chènshān duōshǎo qián?',
     meaning: 'Hello, please how much is that shirt?' },
   { id: 104, original: '299块?', pronunciation: 'Èrbǎi jiǔshíjiǔ kuài.', meaning: '299 pieces.' },
-  { id: 105, original: '太贵了,200块吧', pronunciation: 'Tài guìle, Èrbǎi kuài ba?', meaning: 'Too expensive, 200 pieces?' }
+  { id: 105, original: '太贵了,200块吧?', pronunciation: 'Tài guìle, èrbǎi kuài ba?',
+    meaning: 'Too expensive, 200 pieces?' },
+  { id: 106, original: '好吧,你要几件?', pronunciation: 'Hǎo ba, nǐ yào jǐ jiàn?',
+    meaning: 'Very good, how many do you want?' },
+  { id: 107, original: '我要两件.', pronunciation: 'Wǒ yào liǎng jiàn.', meaning: 'I want two pieces.' }
 ].each do |t_data|
   t = Translation.find_by(id: t_data[:id])
   if t
