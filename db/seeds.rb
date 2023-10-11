@@ -102,7 +102,15 @@
   { id: 80, original: '我会写.', pronunciation: 'Wǒ huì xiě.', meaning: 'I can write.' },
   { id: 81, original: '这个字怎么写?', pronunciation: 'Zhège zì zěnme xiě?', meaning: 'How do you write this character?' },
   { id: 82, original: '对不起,这个字我会读,不会写', pronunciation: 'Duìbùqǐ zhège zì wǒ huì dú, bù huì xiě',
-    meaning: 'Sorry. I can read that word, but cannot write.' }
+    meaning: 'Sorry. I can read that word, but cannot write.' },
+  { id: 83, original: '请', pronunciation: 'qǐng', meaning: 'please' },
+  { id: 84, original: '问', pronunciation: 'wèn', meaning: 'to ask, to inquire' },
+  { id: 85, original: '问题', pronunciation: 'wèntí', meaning: 'issue, question' },
+  { id: 86, original: '这', pronunciation: 'zhè', meaning: 'this' },
+  { id: 87, original: '那', pronunciation: 'nà', meaning: 'that' },
+  { id: 88, original: '件', pronunciation: 'jiàn', meaning: 'item' },
+  { id: 89, original: '双', pronunciation: 'shuāng', meaning: 'pair' },
+  { id: 90, original: '个', pronunciation: 'gè', meaning: '(measure word)' }
 ].each do |t_data|
   t = Translation.find_by(id: t_data[:id])
   if t
