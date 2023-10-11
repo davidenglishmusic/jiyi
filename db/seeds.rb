@@ -118,7 +118,18 @@
   { id: 95, original: '袜子', pronunciation: 'wàzi', meaning: 'socks' },
   { id: 96, original: '手套', pronunciation: 'shǒutào', meaning: 'gloves' },
   { id: 97, original: '鞋', pronunciation: 'xié', meaning: 'shoes' },
-  { id: 98, original: '杯子', pronunciation: 'bēizi', meaning: 'cup' }
+  { id: 98, original: '杯子', pronunciation: 'bēizi', meaning: 'cup' },
+  { id: 99, original: '你好!这个杯子多少钱?', pronunciation: 'Nǐ hǎo! Zhège bēizi duōshǎo qián?',
+    meaning: 'Hello! How much is this cup?' },
+  { id: 100, original: '这个杯子二十八块.', pronunciation: 'Nǐ hǎo! Zhège bēizi èrshíbā kuài.',
+    meaning: 'This cup is 28 pieces.' },
+  { id: 101, original: '那个杯子多少钱?', pronunciation: 'Nàgè bēizi duōshǎo qián?', meaning: 'How much is that cup?' },
+  { id: 102, original: '那个杯子十八块钱?', pronunciation: 'Nàgè bēizi shíbā kuài qián.',
+    meaning: 'That cup is 18 pieces of money.' },
+  { id: 103, original: '你好请问这件衬衫多少钱？', pronunciation: 'Nǐ hǎo, qǐngwèn zhè jiàn chènshān duōshǎo qián?',
+    meaning: 'Hello, please how much is that shirt?' },
+  { id: 104, original: '299块?', pronunciation: 'Èrbǎi jiǔshíjiǔ kuài.', meaning: '299 pieces.' },
+  { id: 105, original: '太贵了,200块吧', pronunciation: 'Tài guìle, Èrbǎi kuài ba?', meaning: 'Too expensive, 200 pieces?' }
 ].each do |t_data|
   t = Translation.find_by(id: t_data[:id])
   if t
