@@ -82,7 +82,7 @@
   { id: 64, original: '儿子', pronunciation: 'érzi', meaning: 'son' },
   { id: 65, original: '女儿', pronunciation: "nǚ'ér", meaning: 'daughter' },
   { id: 66, original: '丈夫', pronunciation: 'zhàngfū', meaning: 'husband' },
-  { id: 67, original: '妻子', pronunciation: 'Qīzi', meaning: 'wife' },
+  { id: 67, original: '妻子', pronunciation: 'qīzi', meaning: 'wife' },
   { id: 68, original: '你家有几口人', pronunciation: 'Nǐ jiā yǒu jǐ kǒu rén?',
     meaning: 'How many family members do you have?' },
   { id: 69, original: '我家有四口人.有爸爸,妈妈,哥哥和我.', pronunciation: 'Wǒ jiā yǒu sì kǒu rén. Yǒu bàba, māmā, gēgē, hé wǒ.',
