@@ -156,7 +156,8 @@
     meaning: 'Yesterday was Tuesday, August 31st.' },
   { id: 127, original: '明天呢?', pronunciation: 'Míngtiān ne?', meaning: 'And tomorrow?' },
   { id: 128, original: '明天是 9 月 2 日，星期四.', pronunciation: 'Míngtiān shì 9 yuè 2 rì, xīngqísì.',
-    meaning: 'Tomorrow is Thursday, September 2nd.' }
+    meaning: 'Tomorrow is Thursday, September 2nd.' },
+  { id: 129, original: '生日', pronunciation: 'shēngrì', meaning: 'birthday' }
 ].each do |t_data|
   t = Translation.find_by(id: t_data[:id])
   if t
