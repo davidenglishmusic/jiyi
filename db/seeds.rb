@@ -137,7 +137,25 @@
     meaning: 'Too expensive, 200 pieces?' },
   { id: 110, original: '好吧,你要几件?', pronunciation: 'Hǎo ba, nǐ yào jǐ jiàn?',
     meaning: 'Very good, how many do you want?' },
-  { id: 111, original: '我要两件.', pronunciation: 'Wǒ yào liǎng jiàn.', meaning: 'I want two pieces.' }
+  { id: 111, original: '昨天', pronunciation: 'zuótiān', meaning: 'yesterday' },
+  { id: 112, original: '今天', pronunciation: 'jīntiān', meaning: 'today' },
+  { id: 113, original: '明天', pronunciation: 'míngtiān', meaning: 'tomorrow' },
+  { id: 114, original: '年', pronunciation: 'nián', meaning: 'year' },
+  { id: 115, original: '月', pronunciation: 'yuè', meaning: 'month' },
+  { id: 116, original: '号', pronunciation: 'hào', meaning: 'day of the month' },
+  { id: 117, original: '日', pronunciation: 'rì', meaning: 'day' },
+  { id: 118, original: '星期', pronunciation: 'xīngqí', meaning: 'week' },
+  { id: 119, original: '周', pronunciation: 'zhōu', meaning: 'week' },
+  { id: 120, original: '今天几号?', pronunciation: 'Jīntiān jǐ hào?', meaning: 'What is the date today?' },
+  { id: 121, original: '今天是 9 月 1 日.', pronunciation: 'Jīntiān shì 9 yuè 1 rì.', meaning: 'Today is September 1.' },
+  { id: 122, original: '今天星期几?', pronunciation: 'Jīntiān xīngqí jǐ?', meaning: 'What day is it today?' },
+  { id: 123, original: '星期三.', pronunciation: 'Xīngqísān.', meaning: 'It is Wednesday.' },
+  { id: 124, original: '昨天是几号？', pronunciation: 'Zuótiān shì jǐ hào?', meaning: 'week' },
+  { id: 125, original: '昨天是 8 月 31 日星期二.', pronunciation: "Zuótiān shì 8 yuè 31 rì xīngqí'èr.",
+    meaning: 'Yesterday was Tuesday, August 31st.' },
+  { id: 126, original: '明天呢?', pronunciation: 'Míngtiān ne?', meaning: 'And tomorrow?' },
+  { id: 127, original: '明天是 9 月 2 日，星期四.', pronunciation: 'Míngtiān shì 9 yuè 2 rì, xīngqísì.',
+    meaning: 'Tomorrow is Thursday, September 2nd.' }
 ].each do |t_data|
   t = Translation.find_by(id: t_data[:id])
   if t
