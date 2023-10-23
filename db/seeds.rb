@@ -157,7 +157,26 @@
   { id: 127, original: '明天呢?', pronunciation: 'Míngtiān ne?', meaning: 'And tomorrow?' },
   { id: 128, original: '明天是 9 月 2 日，星期四.', pronunciation: 'Míngtiān shì 9 yuè 2 rì, xīngqísì.',
     meaning: 'Tomorrow is Thursday, September 2nd.' },
-  { id: 129, original: '生日', pronunciation: 'shēngrì', meaning: 'birthday' }
+  { id: 129, original: '生日', pronunciation: 'shēngrì', meaning: 'birthday' },
+  { id: 130, original: '早上', pronunciation: 'zǎoshang', meaning: 'morning' },
+  { id: 131, original: '上午', pronunciation: 'shàngwǔ', meaning: 'forenoon' },
+  { id: 132, original: '中午', pronunciation: 'zhōngwǔ', meaning: 'noon' },
+  { id: 133, original: '下午', pronunciation: 'xiàwǔ', meaning: 'afternoon' },
+  { id: 134, original: '晚上', pronunciation: 'wǎnshàng', meaning: 'evening' },
+  { id: 135, original: '水', pronunciation: 'shuǐ', meaning: 'water' },
+  { id: 136, original: '热', pronunciation: 'rè', meaning: 'hot' },
+  { id: 137, original: '凉', pronunciation: 'liáng', meaning: 'cold' },
+  { id: 138, original: '冰', pronunciation: 'bīng', meaning: 'ice' },
+  { id: 139, original: '茶', pronunciation: 'chá', meaning: 'tea' },
+  { id: 140, original: '奶茶', pronunciation: 'nǎichá', meaning: 'milk tea' },
+  { id: 141, original: '可乐', pronunciation: 'kělè', meaning: 'cola' },
+  { id: 142, original: '咖啡', pronunciation: 'Kāfēi', meaning: 'coffee' },
+  { id: 143, original: '喝', pronunciation: 'hē', meaning: 'to drink' },
+  { id: 144, original: '米饭', pronunciation: 'mǐfàn', meaning: 'rice' },
+  { id: 145, original: '面条', pronunciation: 'miàntiáo', meaning: 'noodles' },
+  { id: 146, original: '饺子', pronunciation: 'jiǎozi', meaning: 'dumplings' },
+  { id: 147, original: '碗', pronunciation: 'wǎn', meaning: 'bowl' },
+  { id: 148, original: '吃', pronunciation: 'chī', meaning: 'to eat' }
 ].each do |t_data|
   t = Translation.find_by(id: t_data[:id])
   if t
