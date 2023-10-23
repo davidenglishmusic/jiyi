@@ -176,7 +176,17 @@
   { id: 145, original: '面条', pronunciation: 'miàntiáo', meaning: 'noodles' },
   { id: 146, original: '饺子', pronunciation: 'jiǎozi', meaning: 'dumplings' },
   { id: 147, original: '碗', pronunciation: 'wǎn', meaning: 'bowl' },
-  { id: 148, original: '吃', pronunciation: 'chī', meaning: 'to eat' }
+  { id: 148, original: '吃', pronunciation: 'chī', meaning: 'to eat' },
+  { id: 149, original: '你想喝什么?', pronunciation: 'Nǐ xiǎng hē shénme?', meaning: 'What would you like to drink?' },
+  { id: 150, original: '我想喝茶.', pronunciation: 'Wǒ xiǎng hē chá.', meaning: 'I would like to drink tea.' },
+  { id: 151, original: '你想喝什么?', pronunciation: 'Nǐ xiǎng hē shénme?', meaning: 'What would you like to eat?' },
+  { id: 152, original: '我想吃米饭.', pronunciation: 'Wǒ xiǎng chī mǐfàn.', meaning: 'I would like to eat rice.' },
+  { id: 153, original: '下午你想做什么?', pronunciation: 'Xiàwǔ nǐ xiǎng zuò shénme?',
+    meaning: 'What would you like to do this afternoon?' },
+  { id: 154, original: '下午我想去商店.', pronunciation: 'Xiàwǔ wǒ xiǎng qù shāngdiàn.',
+    meaning: 'This afternoon I would like to go to the store.' },
+  { id: 155, original: '你想买什么?', pronunciation: 'Nǐ xiǎng mǎi shénme?', meaning: 'What do you want to buy?' },
+  { id: 156, original: '我想买一个杯子.', pronunciation: 'Wǒ xiǎng mǎi yīgè bēizi.', meaning: 'I would like to buy a cup.' }
 ].each do |t_data|
   t = Translation.find_by(id: t_data[:id])
   if t
