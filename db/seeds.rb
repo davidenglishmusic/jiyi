@@ -194,7 +194,17 @@
   { id: 162, original: '下午我想去商店.', pronunciation: 'Xiàwǔ wǒ xiǎng qù shāngdiàn.',
     meaning: 'This afternoon I would like to go to the store.' },
   { id: 163, original: '你想买什么?', pronunciation: 'Nǐ xiǎng mǎi shénme?', meaning: 'What do you want to buy?' },
-  { id: 164, original: '我想买一个杯子.', pronunciation: 'Wǒ xiǎng mǎi yīgè bēizi.', meaning: 'I would like to buy a cup.' }
+  { id: 164, original: '我想买一个杯子.', pronunciation: 'Wǒ xiǎng mǎi yīgè bēizi.', meaning: 'I would like to buy a cup.' },
+  { id: 165, original: '服务员', pronunciation: 'fúwùyuán', meaning: 'waiter' },
+  { id: 166, original: '顾客', pronunciation: 'gùkè', meaning: 'client, customer' },
+  { id: 167, original: '酸', pronunciation: 'suān', meaning: 'sour' },
+  { id: 168, original: '甜', pronunciation: 'tián', meaning: 'sweet' },
+  { id: 169, original: '辣', pronunciation: 'là', meaning: 'spicy' },
+  { id: 170, original: '牛肉面', pronunciation: 'niúròu miàn', meaning: 'beef noodles' },
+  { id: 171, original: '豆腐', pronunciation: 'dòufu', meaning: 'tofu' },
+  { id: 172, original: '炒饭', pronunciation: 'chǎofàn', meaning: 'fried rice' },
+  { id: 173, original: '烤鸭', pronunciation: 'kǎoyā', meaning: 'roast duck' },
+  { id: 174, original: '饺子', pronunciation: 'jiǎozi', meaning: 'dumpling' }
 ].each do |t_data|
   t = Translation.find_by(id: t_data[:id])
   if t
