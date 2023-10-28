@@ -204,7 +204,23 @@
   { id: 171, original: '豆腐', pronunciation: 'dòufu', meaning: 'tofu' },
   { id: 172, original: '炒饭', pronunciation: 'chǎofàn', meaning: 'fried rice' },
   { id: 173, original: '烤鸭', pronunciation: 'kǎoyā', meaning: 'roast duck' },
-  { id: 174, original: '饺子', pronunciation: 'jiǎozi', meaning: 'dumpling' }
+  { id: 174, original: '饺子', pronunciation: 'jiǎozi', meaning: 'dumpling' },
+  { id: 175, original: '小', pronunciation: 'xiǎo', meaning: 'small' },
+  { id: 176, original: '猫', pronunciation: 'māo', meaning: 'cat' },
+  { id: 177, original: '狗', pronunciation: 'gǒu', meaning: 'dog' },
+  { id: 178, original: '电脑', pronunciation: 'diànnǎo', meaning: 'computer' },
+  { id: 179, original: '书', pronunciation: 'shū', meaning: 'book' },
+  { id: 180, original: '手机', pronunciation: 'shǒujī', meaning: 'cell phone' },
+  { id: 181, original: '客厅', pronunciation: 'kètīng', meaning: 'living room' },
+  { id: 182, original: '银行', pronunciation: 'Yínháng', meaning: 'bank' },
+  { id: 183, original: '在', pronunciation: 'zài', meaning: 'in; be; at' },
+  { id: 184, original: '这儿', pronunciation: "zhè'er", meaning: 'here' },
+  { id: 185, original: '那儿', pronunciation: "nà'er", meaning: 'there' },
+  { id: 186, original: '哪儿', pronunciation: "nǎ'er", meaning: 'where' },
+  { id: 187, original: '上面', pronunciation: 'shàngmiàn', meaning: 'over; on top of' },
+  { id: 188, original: '下面', pronunciation: 'xiàmiàn', meaning: 'below; under' },
+  { id: 189, original: '前面', pronunciation: 'qiánmiàn', meaning: 'front' },
+  { id: 190, original: '后面', pronunciation: 'hòumiàn', meaning: 'at the back; behind' }
 ].each do |t_data|
   t = Translation.find_by(id: t_data[:id])
   if t
