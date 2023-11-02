@@ -233,7 +233,13 @@
   { id: 200, original: '桌子上有一个电脑和一本书.', pronunciation: 'Zhuōzi shàng yǒu yīgè diànnǎo hé yī běn shū.',
     meaning: 'There is a computer and a book on the desk.' },
   { id: 201, original: '杯子在那儿?', pronunciation: "Bēizi zài nǎ'er?", meaning: 'Where is the cup?' },
-  { id: 202, original: '杯子在桌子上.', pronunciation: 'Bēizi zài zhuōzi shàng.', meaning: 'The cup is in the desk.' }
+  { id: 202, original: '杯子在桌子上.', pronunciation: 'Bēizi zài zhuōzi shàng.', meaning: 'The cup is in the desk.' },
+  { id: 203, original: '公司', pronunciation: 'gōngsī', meaning: 'company' },
+  { id: 204, original: '学习', pronunciation: 'xuéxí', meaning: 'to study; to learn' },
+  { id: 205, original: '游泳', pronunciation: 'yóuyǒng', meaning: 'to swim' },
+  { id: 206, original: '工作', pronunciation: 'gōngzuò', meaning: 'work; job' },
+  { id: 207, original: '医生', pronunciation: 'yīshēng', meaning: 'doctor' },
+  { id: 208, original: '医院', pronunciation: 'yīyuàn', meaning: 'hospital' }
 ].each do |t_data|
   t = Translation.find_by(id: t_data[:id])
   if t
