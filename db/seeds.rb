@@ -239,7 +239,12 @@
   { id: 205, original: '游泳', pronunciation: 'yóuyǒng', meaning: 'to swim' },
   { id: 206, original: '工作', pronunciation: 'gōngzuò', meaning: 'work; job' },
   { id: 207, original: '医生', pronunciation: 'yīshēng', meaning: 'doctor' },
-  { id: 208, original: '医院', pronunciation: 'yīyuàn', meaning: 'hospital' }
+  { id: 208, original: '医院', pronunciation: 'yīyuàn', meaning: 'hospital' },
+  { id: 209, original: '你在哪儿工作?', pronunciation: "Nǐ zài nǎ'er gōngzuò?", meaning: 'Where do you work?' },
+  { id: 210, original: '我在学校工作.', pronunciation: 'Wǒ zài xuéxiào gōngzuò.', meaning: 'I work in a school.' },
+  { id: 211, original: '你儿子哪儿工作?', pronunciation: "Nǐ érzi zài nǎ'er gōngzuò?", meaning: 'Where does your son work?' },
+  { id: 212, original: '我儿子在医院工作, 他是医生.', pronunciation: 'Wǒ érzi zài yīyuàn gōngzuò, tā shì yīshēng.',
+    meaning: 'My son works at the hospital, he is a doctor.' }
 ].each do |t_data|
   t = Translation.find_by(id: t_data[:id])
   if t
