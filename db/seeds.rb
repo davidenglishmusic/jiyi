@@ -244,6 +244,14 @@
   { id: 210, original: '我在学校工作.', pronunciation: 'Wǒ zài xuéxiào gōngzuò.', meaning: 'I work in a school.' },
   { id: 211, original: '你儿子哪儿工作?', pronunciation: "Nǐ érzi zài nǎ'er gōngzuò?", meaning: 'Where does your son work?' },
   { id: 212, original: '我儿子在医院工作, 他是医生.', pronunciation: 'Wǒ érzi zài yīyuàn gōngzuò, tā shì yīshēng.',
+    meaning: 'My son works at the hospital, he is a doctor.' },
+  { id: 213, original: '前面那个人，叫什么名字?', pronunciation: 'Qiánmiàn nàgè rén, jiào shénme míngzì?',
+    meaning: 'The person in front, what is their name?' },
+  { id: 214, original: '她叫王芳，在医院工作.', pronunciation: 'Tā jiào Wáng Fāng, zài yīyuàn gōngzuò.',
+    meaning: 'She is called Wang Fang, she works at the hospital.' },
+  { id: 215, original: '后面那个人，叫什么名字?', pronunciation: 'Hòumiàn nàgè rén, jiào shénme míngzì?',
+    meaning: 'The person in the back, what is their name?' },
+  { id: 216, original: '她叫谢鹏，在商店工作.', pronunciation: 'Tā jiào Xiè Péng, zài shāngdiàn gōngzuò.',
     meaning: 'My son works at the hospital, he is a doctor.' }
 ].each do |t_data|
   t = Translation.find_by(id: t_data[:id])
