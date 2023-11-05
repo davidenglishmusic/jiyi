@@ -252,7 +252,11 @@
   { id: 215, original: '后面那个人，叫什么名字?', pronunciation: 'Hòumiàn nàgè rén, jiào shénme míngzì?',
     meaning: 'The person in the back, what is their name?' },
   { id: 216, original: '她叫谢鹏，在商店工作.', pronunciation: 'Tā jiào Xiè Péng, zài shāngdiàn gōngzuò.',
-    meaning: 'My son works at the hospital, he is a doctor.' }
+    meaning: 'My son works at the hospital, he is a doctor.' },
+  { id: 217, original: '这儿有人吗?', pronunciation: "Zhè'er yǒurén ma?", meaning: 'Anyone here?' },
+  { id: 218, original: '没有.', pronunciation: 'Méi yǒu.', meaning: 'No one.' },
+  { id: 219, original: '我能坐这儿吗?', pronunciation: "Wǒ néng zuò zhè'er ma?", meaning: 'Can I sit here?' },
+  { id: 220, original: '请坐.', pronunciation: 'Qǐng zuò.', meaning: 'Please sit.' }
 ].each do |t_data|
   t = Translation.find_by(id: t_data[:id])
   if t
