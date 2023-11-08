@@ -256,7 +256,18 @@
   { id: 217, original: '这儿有人吗?', pronunciation: "Zhè'er yǒurén ma?", meaning: 'Anyone here?' },
   { id: 218, original: '没有.', pronunciation: 'Méi yǒu.', meaning: 'No one.' },
   { id: 219, original: '我能坐这儿吗?', pronunciation: "Wǒ néng zuò zhè'er ma?", meaning: 'Can I sit here?' },
-  { id: 220, original: '请坐.', pronunciation: 'Qǐng zuò.', meaning: 'Please sit.' }
+  { id: 220, original: '请坐.', pronunciation: 'Qǐng zuò.', meaning: 'Please sit.' },
+  { id: 221, original: '点', pronunciation: 'diǎn', meaning: "o'clock" },
+  { id: 222, original: '点钟', pronunciation: 'diǎn zhōng', meaning: "o'clock" },
+  { id: 223, original: '现在', pronunciation: 'xiànzài', meaning: 'now' },
+  { id: 224, original: '半', pronunciation: 'bàn', meaning: 'half' },
+  { id: 225, original: '分', pronunciation: 'fēn', meaning: 'minute' },
+  { id: 226, original: '刻', pronunciation: 'kè', meaning: 'quarter' },
+  { id: 227, original: '住', pronunciation: 'zhù', meaning: 'to live; to stay' },
+  { id: 228, original: '电影', pronunciation: 'diànyǐng', meaning: 'movie' },
+  { id: 229, original: '时候', pronunciation: 'shíhòu', meaning: 'when' },
+  { id: 230, original: '回', pronunciation: 'huí', meaning: 'to return' },
+  { id: 231, original: '宿舍', pronunciation: 'sùshè', meaning: 'dormitory' }
 ].each do |t_data|
   t = Translation.find_by(id: t_data[:id])
   if t
