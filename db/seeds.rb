@@ -291,13 +291,19 @@
 ].each do |t_data|
   t = Translation.find_by(id: t_data[:id])
   if t
-    t.update(original: t_data[:original], pronunciation: t_data[:pronunciation], meaning: t_data[:meaning])
+    t.update(
+      original: t_data[:original],
+      pronunciation: t_data[:pronunciation],
+      meaning: t_data[:meaning],
+      lesson_id: t_data[:lesson_id]
+    )
   else
     Translation.create(
       id: t_data[:id],
       original: t_data[:original],
       pronunciation: t_data[:pronunciation],
-      meaning: t_data[:meaning]
+      meaning: t_data[:meaning],
+      lesson_id: t_data[:lesson_id]
     )
   end
 end
