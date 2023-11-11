@@ -1,14 +1,16 @@
-<h1>Translations</h1>
+<div class="mt-28">
+  <h1>Translations</h1>
 
-<% @translations.each do |group| %>
-  <h2>Lesson <%= group.first %></h2>
-  <ul>
-    <% group.last.each do |translation| %>
-      <li>
-        <%= translation.original %>
-        <%= translation.pronunciation %>
-        <%= translation.meaning %>
-      </li>     
-    <% end %>
-  </ul>
-<% end %>
+  <% @translations.each do |group| %>
+    <h2>Lesson <%= group.first %></h2>
+    <ul>
+      <% group.last.each do |translation| %>
+        <li>
+          <%= translation.original %>
+          <%= translation.pronunciation %>
+          <%= translation.meaning %>
+        </li>     
+      <% end %>
+    </ul>
+  <% end %>
+</div>
