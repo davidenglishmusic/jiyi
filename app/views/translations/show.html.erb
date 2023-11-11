@@ -1,5 +1,7 @@
-<div class="h-screen flex flex-col items-center justify-center">
+<div class="h-screen flex flex-col items-center justify-center"
+  data-controller="translation"
+  data-action="click@window->translation#reveal">
   <div class="text-9xl pb-8"><%= @translation.original %></div>
-  <div class="text-3xl pb-4"><%= @translation.pronunciation %></div>
-  <div class="text-3xl"><%= @translation.meaning %></div>
+  <div class="text-3xl pb-4 invisible" data-translation-target="pronunciation"><%= @translation.pronunciation %></div>
+  <div class="text-3xl invisible" data-translation-target="meaning"><%= @translation.meaning %></div>
 </div>
