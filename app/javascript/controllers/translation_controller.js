@@ -7,4 +7,12 @@ export default class extends Controller {
         this.pronunciationTarget.classList.remove('invisible');
         this.meaningTarget.classList.remove('invisible');
     }
+
+    next() {
+        window.location.pathname = (this.element.dataset.nextUrl)
+    }
+
+    prev() {
+        window.location.pathname = (this.element.dataset.prevUrl)
+    }
 }

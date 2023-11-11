@@ -1,7 +1,12 @@
-<div class="h-screen flex flex-col items-center justify-center"
-  data-controller="translation"
-  data-action="click@window->translation#reveal">
+<%= content_tag :div,
+  class: 'h-screen flex flex-col items-center justify-center',
+  data: {
+    controller: 'translation',
+    action: 'click@window->translation#reveal keydown.right@window->translation#next keydown.left@window->translation#prev',
+    next_url: @next_url,
+    prev_url: @prev_url
+  } do %>
   <div class="text-9xl pb-8"><%= @translation.original %></div>
   <div class="text-3xl pb-4 invisible" data-translation-target="pronunciation"><%= @translation.pronunciation %></div>
   <div class="text-3xl invisible" data-translation-target="meaning"><%= @translation.meaning %></div>
-</div>
+<% end %>
