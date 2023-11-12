@@ -1,0 +1,1619 @@
+[
+  {
+    "id": 1,
+    "original": "你",
+    "pronunciation": "nǐ",
+    "meaning": "you",
+    "lesson_id": 1
+  },
+  {
+    "id": 2,
+    "original": "您",
+    "pronunciation": "nín",
+    "meaning": "you (formal)",
+    "lesson_id": 1
+  },
+  {
+    "id": 3,
+    "original": "好",
+    "pronunciation": "hǎo",
+    "meaning": "good",
+    "lesson_id": 1
+  },
+  {
+    "id": 4,
+    "original": "我",
+    "pronunciation": "wǒ",
+    "meaning": "me, I",
+    "lesson_id": 1
+  },
+  {
+    "id": 5,
+    "original": "叫",
+    "pronunciation": "jiào",
+    "meaning": "to be called",
+    "lesson_id": 1
+  },
+  {
+    "id": 6,
+    "original": "我",
+    "pronunciation": "wǒ",
+    "meaning": "me, I",
+    "lesson_id": 1
+  },
+  {
+    "id": 7,
+    "original": "什么",
+    "pronunciation": "shénme",
+    "meaning": "what",
+    "lesson_id": 1
+  },
+  {
+    "id": 8,
+    "original": "名字",
+    "pronunciation": "míngzì",
+    "meaning": "name",
+    "lesson_id": 1
+  },
+  {
+    "id": 9,
+    "original": "你好",
+    "pronunciation": "nǐ hǎo",
+    "meaning": "Hello",
+    "lesson_id": 1
+  },
+  {
+    "id": 10,
+    "original": "您好",
+    "pronunciation": "nǐ hǎo",
+    "meaning": "Hello (formal)",
+    "lesson_id": 1
+  },
+  {
+    "id": 11,
+    "original": "你们好",
+    "pronunciation": "nǐmen hǎo",
+    "meaning": "Hello (plural)",
+    "lesson_id": 1
+  },
+  {
+    "id": 12,
+    "original": "你叫什么名字",
+    "pronunciation": "Nǐ jiào shénme míngzì?",
+    "meaning": "What is your name?",
+    "lesson_id": 1
+  },
+  {
+    "id": 13,
+    "original": "老师",
+    "pronunciation": "lǎoshī",
+    "meaning": "teacher",
+    "lesson_id": 2
+  },
+  {
+    "id": 14,
+    "original": "是",
+    "pronunciation": "shì",
+    "meaning": "to be",
+    "lesson_id": 2
+  },
+  {
+    "id": 15,
+    "original": "人",
+    "pronunciation": "rén",
+    "meaning": "person",
+    "lesson_id": 2
+  },
+  {
+    "id": 16,
+    "original": "学生",
+    "pronunciation": "xuéshēng",
+    "meaning": "student",
+    "lesson_id": 2
+  },
+  {
+    "id": 17,
+    "original": "喜欢",
+    "pronunciation": "xǐhuān",
+    "meaning": "to like",
+    "lesson_id": 2
+  },
+  {
+    "id": 18,
+    "original": "中国",
+    "pronunciation": "zhōngguó",
+    "meaning": "Chinese",
+    "lesson_id": 2
+  },
+  {
+    "id": 19,
+    "original": "他",
+    "pronunciation": "tā",
+    "meaning": "he",
+    "lesson_id": 2
+  },
+  {
+    "id": 20,
+    "original": "她",
+    "pronunciation": "tā",
+    "meaning": "she",
+    "lesson_id": 2
+  },
+  {
+    "id": 21,
+    "original": "加拿大",
+    "pronunciation": "jiānádà",
+    "meaning": "Canada",
+    "lesson_id": 2
+  },
+  {
+    "id": 22,
+    "original": "你是老师吗",
+    "pronunciation": "Nǐ shì lǎoshī ma?",
+    "meaning": "Are you the teacher?",
+    "lesson_id": 2
+  },
+  {
+    "id": 23,
+    "original": "我不是老师,我是学生.你呢?",
+    "pronunciation": "Wǒ bù shì lǎoshī, wǒ shì xuéshēng. Nǐ ne?",
+    "meaning": "I am not teacher, I am a student. And you?",
+    "lesson_id": 2
+  },
+  {
+    "id": 24,
+    "original": "我也是学生.",
+    "pronunciation": "Wǒ yě shì xuéshēng.",
+    "meaning": "I am also a student.",
+    "lesson_id": 2
+  },
+  {
+    "id": 25,
+    "original": "你是中国人呢?",
+    "pronunciation": "Nǐ shì Zhōngguó rén ma?",
+    "meaning": "Are you Chinese?",
+    "lesson_id": 2
+  },
+  {
+    "id": 26,
+    "original": "我不是中国人,我是美国人.",
+    "pronunciation": "Wǒ bù shì Zhōngguó rén, wǒ shì měiguó rén.",
+    "meaning": "I am not Chinese. I am American.",
+    "lesson_id": 2
+  },
+  {
+    "id": 27,
+    "original": "谢谢你!",
+    "pronunciation": "Xièxiè nǐ!",
+    "meaning": "Thank you!",
+    "lesson_id": 2
+  },
+  {
+    "id": 28,
+    "original": "不客气!",
+    "pronunciation": "Bù kèqì!",
+    "meaning": "You're welcome!",
+    "lesson_id": 2
+  },
+  {
+    "id": 29,
+    "original": "对不起!",
+    "pronunciation": "Duìbùqǐ!",
+    "meaning": "I'm sorry!",
+    "lesson_id": 2
+  },
+  {
+    "id": 30,
+    "original": "没关系!",
+    "pronunciation": "Méi guānxì!",
+    "meaning": "That's okay!",
+    "lesson_id": 2
+  },
+  {
+    "id": 31,
+    "original": "再见!",
+    "pronunciation": "Zài jiàn!",
+    "meaning": "Goodbye!",
+    "lesson_id": 2
+  },
+  {
+    "id": 32,
+    "original": "明天见!",
+    "pronunciation": "Míngtiān jiàn!",
+    "meaning": "See you tomorrow!",
+    "lesson_id": 2
+  },
+  {
+    "id": 33,
+    "original": "同学",
+    "pronunciation": "tóngxué",
+    "meaning": "schoolmate",
+    "lesson_id": 3
+  },
+  {
+    "id": 34,
+    "original": "同事",
+    "pronunciation": "tóngshì",
+    "meaning": "colleague",
+    "lesson_id": 3
+  },
+  {
+    "id": 35,
+    "original": "朋友",
+    "pronunciation": "péngyǒu",
+    "meaning": "friend",
+    "lesson_id": 3
+  },
+  {
+    "id": 36,
+    "original": "好友",
+    "pronunciation": "hǎoyǒu",
+    "meaning": "good friend",
+    "lesson_id": 3
+  },
+  {
+    "id": 37,
+    "original": "名事",
+    "pronunciation": "míng xīng",
+    "meaning": "celebrity",
+    "lesson_id": 3
+  },
+  {
+    "id": 38,
+    "original": "中国文",
+    "pronunciation": "zhōngguó wén",
+    "meaning": "Chinese (characters)",
+    "lesson_id": 3
+  },
+  {
+    "id": 39,
+    "original": "英文",
+    "pronunciation": "yīngwén",
+    "meaning": "English (characters)",
+    "lesson_id": 3
+  },
+  {
+    "id": 40,
+    "original": "汉语",
+    "pronunciation": "hànyǔ",
+    "meaning": "Chinese (spoken)",
+    "lesson_id": 3
+  },
+  {
+    "id": 41,
+    "original": "英语",
+    "pronunciation": "yīngyǔ",
+    "meaning": "English (spoken)",
+    "lesson_id": 3
+  },
+  {
+    "id": 42,
+    "original": "她是谁?",
+    "pronunciation": "Tā shì shéi?",
+    "meaning": "Who is she?",
+    "lesson_id": 3
+  },
+  {
+    "id": 43,
+    "original": "她是我的汉语老师,她叫李悦.",
+    "pronunciation": "Tā shì wǒ de hànyǔ lǎoshī, tā jiào Lǐ Yuè.",
+    "meaning": "She is my Chinese teacher, she is called Li Yue.",
+    "lesson_id": 3
+  },
+  {
+    "id": 44,
+    "original": "他是谁",
+    "pronunciation": "Tā shì shéi?",
+    "meaning": "Who is he?",
+    "lesson_id": 3
+  },
+  {
+    "id": 45,
+    "original": "他是我同学",
+    "pronunciation": "Tā shì wǒ tóngxué.",
+    "meaning": "He is my classmate.",
+    "lesson_id": 3
+  },
+  {
+    "id": 46,
+    "original": "她呢? 她是你同学吗?",
+    "pronunciation": "Tā ne? Tā shì nǐ tóngxué ma?",
+    "meaning": "And her? She is also your classmate?",
+    "lesson_id": 3
+  },
+  {
+    "id": 47,
+    "original": "她不是我同学. 她是我朋友.",
+    "pronunciation": "Tā bù shì wǒ tóngxué. Tā shì wǒ péngyǒu.",
+    "meaning": "She is not my classmate. She is my friend.",
+    "lesson_id": 3
+  },
+  {
+    "id": 48,
+    "original": "家",
+    "pronunciation": "jiā",
+    "meaning": "family",
+    "lesson_id": 5
+  },
+  {
+    "id": 49,
+    "original": "家人",
+    "pronunciation": "jiā rén",
+    "meaning": "family member",
+    "lesson_id": 5
+  },
+  {
+    "id": 50,
+    "original": "国家",
+    "pronunciation": "guó jiā",
+    "meaning": "country",
+    "lesson_id": 5
+  },
+  {
+    "id": 51,
+    "original": "有",
+    "pronunciation": "yǒu",
+    "meaning": "to have",
+    "lesson_id": 5
+  },
+  {
+    "id": 52,
+    "original": "没有",
+    "pronunciation": "méi yǒu",
+    "meaning": "to not have",
+    "lesson_id": 5
+  },
+  {
+    "id": 53,
+    "original": "口",
+    "pronunciation": "kǒu",
+    "meaning": "(measure word for number of family members)",
+    "lesson_id": 5
+  },
+  {
+    "id": 54,
+    "original": "岁",
+    "pronunciation": "suì",
+    "meaning": "years of age",
+    "lesson_id": 5
+  },
+  {
+    "id": 55,
+    "original": "今年",
+    "pronunciation": "jīnnián",
+    "meaning": "this year",
+    "lesson_id": 5
+  },
+  {
+    "id": 56,
+    "original": "明年",
+    "pronunciation": "míngnián",
+    "meaning": "next year",
+    "lesson_id": 5
+  },
+  {
+    "id": 57,
+    "original": "去年",
+    "pronunciation": "qùnián",
+    "meaning": "last year",
+    "lesson_id": 5
+  },
+  {
+    "id": 58,
+    "original": "爸爸",
+    "pronunciation": "bàba",
+    "meaning": "dad",
+    "lesson_id": 5
+  },
+  {
+    "id": 59,
+    "original": "妈妈",
+    "pronunciation": "māmā",
+    "meaning": "mom",
+    "lesson_id": 5
+  },
+  {
+    "id": 60,
+    "original": "姐姐",
+    "pronunciation": "jiějiě",
+    "meaning": "older sister",
+    "lesson_id": 5
+  },
+  {
+    "id": 61,
+    "original": "妹妹",
+    "pronunciation": "mèimei",
+    "meaning": "younger sister",
+    "lesson_id": 5
+  },
+  {
+    "id": 62,
+    "original": "哥哥",
+    "pronunciation": "gēgē",
+    "meaning": "older brother",
+    "lesson_id": 5
+  },
+  {
+    "id": 63,
+    "original": "弟弟",
+    "pronunciation": "dìdì",
+    "meaning": "younger brother",
+    "lesson_id": 5
+  },
+  {
+    "id": 64,
+    "original": "儿子",
+    "pronunciation": "érzi",
+    "meaning": "son",
+    "lesson_id": 5
+  },
+  {
+    "id": 65,
+    "original": "女儿",
+    "pronunciation": "nǚ'ér",
+    "meaning": "daughter",
+    "lesson_id": 5
+  },
+  {
+    "id": 66,
+    "original": "丈夫",
+    "pronunciation": "zhàngfū",
+    "meaning": "husband",
+    "lesson_id": 5
+  },
+  {
+    "id": 67,
+    "original": "妻子",
+    "pronunciation": "qīzi",
+    "meaning": "wife",
+    "lesson_id": 5
+  },
+  {
+    "id": 68,
+    "original": "你家有几口人",
+    "pronunciation": "Nǐ jiā yǒu jǐ kǒu rén?",
+    "meaning": "How many family members do you have?",
+    "lesson_id": 5
+  },
+  {
+    "id": 69,
+    "original": "我家有四口人.有爸爸,妈妈,哥哥和我.",
+    "pronunciation": "Wǒ jiā yǒu sì kǒu rén. Yǒu bàba, māmā, gēgē, hé wǒ.",
+    "meaning": "I have four family members. I have dad, mom, older brother, and me.",
+    "lesson_id": 5
+  },
+  {
+    "id": 70,
+    "original": "你今年多大了?",
+    "pronunciation": "Nǐ jīnnián duōdàle?",
+    "meaning": "How old are you this year?",
+    "lesson_id": 5
+  },
+  {
+    "id": 71,
+    "original": "我今年二十岁.",
+    "pronunciation": "Wǒ jīnnián èr shí suì.",
+    "meaning": "I am twenty years old.",
+    "lesson_id": 5
+  },
+  {
+    "id": 72,
+    "original": "菜",
+    "pronunciation": "cài",
+    "meaning": "vegetable, food",
+    "lesson_id": 6
+  },
+  {
+    "id": 73,
+    "original": "做",
+    "pronunciation": "zuò",
+    "meaning": "to do, to work",
+    "lesson_id": 6
+  },
+  {
+    "id": 74,
+    "original": "好吃",
+    "pronunciation": "hǎo chī",
+    "meaning": "delicious",
+    "lesson_id": 6
+  },
+  {
+    "id": 75,
+    "original": "听",
+    "pronunciation": "tīng",
+    "meaning": "to listen",
+    "lesson_id": 6
+  },
+  {
+    "id": 76,
+    "original": "说",
+    "pronunciation": "shuō",
+    "meaning": "to speak",
+    "lesson_id": 6
+  },
+  {
+    "id": 77,
+    "original": "读",
+    "pronunciation": "dú",
+    "meaning": "to read",
+    "lesson_id": 6
+  },
+  {
+    "id": 78,
+    "original": "写",
+    "pronunciation": "xiě",
+    "meaning": "to write",
+    "lesson_id": 6
+  },
+  {
+    "id": 79,
+    "original": "字",
+    "pronunciation": "zì",
+    "meaning": "character",
+    "lesson_id": 6
+  },
+  {
+    "id": 80,
+    "original": "汉字",
+    "pronunciation": "hànzì",
+    "meaning": "Chinese character",
+    "lesson_id": 6
+  },
+  {
+    "id": 81,
+    "original": "我会做菜,我喜欢中国菜.你呢?",
+    "pronunciation": "Wǒ huì zuò cài, wǒ xǐhuān zhōngguó cài. Nǐ ne?",
+    "meaning": "I can cook. I like Chinese food. And you?",
+    "lesson_id": 6
+  },
+  {
+    "id": 82,
+    "original": "我会做法国菜.我很喜欢法国菜.",
+    "pronunciation": "Wǒ huì zuò fàguó cài. Wǒ hěn xǐhuān fàguó cài.",
+    "meaning": "I can cook French food. I really like French food.",
+    "lesson_id": 6
+  },
+  {
+    "id": 83,
+    "original": "你会写汉字吗?",
+    "pronunciation": "Nǐ huì xiě hànzì ma?",
+    "meaning": "Can you write Chinese characters?",
+    "lesson_id": 6
+  },
+  {
+    "id": 84,
+    "original": "我会写.",
+    "pronunciation": "Wǒ huì xiě.",
+    "meaning": "I can write.",
+    "lesson_id": 6
+  },
+  {
+    "id": 85,
+    "original": "这个字怎么写?",
+    "pronunciation": "Zhège zì zěnme xiě?",
+    "meaning": "How do you write this character?",
+    "lesson_id": 6
+  },
+  {
+    "id": 86,
+    "original": "对不起,这个字我会读,不会写",
+    "pronunciation": "Duìbùqǐ zhège zì wǒ huì dú, bù huì xiě",
+    "meaning": "Sorry. I can read that word, but cannot write.",
+    "lesson_id": 6
+  },
+  {
+    "id": 87,
+    "original": "请",
+    "pronunciation": "qǐng",
+    "meaning": "please",
+    "lesson_id": 7
+  },
+  {
+    "id": 88,
+    "original": "问",
+    "pronunciation": "wèn",
+    "meaning": "to ask, to inquire",
+    "lesson_id": 7
+  },
+  {
+    "id": 89,
+    "original": "问题",
+    "pronunciation": "wèntí",
+    "meaning": "issue, question",
+    "lesson_id": 7
+  },
+  {
+    "id": 90,
+    "original": "这",
+    "pronunciation": "zhè",
+    "meaning": "this",
+    "lesson_id": 7
+  },
+  {
+    "id": 91,
+    "original": "那",
+    "pronunciation": "nà",
+    "meaning": "that",
+    "lesson_id": 7
+  },
+  {
+    "id": 92,
+    "original": "件",
+    "pronunciation": "jiàn",
+    "meaning": "item",
+    "lesson_id": 7
+  },
+  {
+    "id": 93,
+    "original": "双",
+    "pronunciation": "shuāng",
+    "meaning": "pair",
+    "lesson_id": 7
+  },
+  {
+    "id": 94,
+    "original": "个",
+    "pronunciation": "gè",
+    "meaning": "(measure word)",
+    "lesson_id": 7
+  },
+  {
+    "id": 95,
+    "original": "裤子",
+    "pronunciation": "kùzi",
+    "meaning": "pants",
+    "lesson_id": 7
+  },
+  {
+    "id": 96,
+    "original": "裙子",
+    "pronunciation": "qúnzi",
+    "meaning": "dress",
+    "lesson_id": 7
+  },
+  {
+    "id": 97,
+    "original": "T恤",
+    "pronunciation": "T xù",
+    "meaning": "T-shirt",
+    "lesson_id": 7
+  },
+  {
+    "id": 98,
+    "original": "衬衫",
+    "pronunciation": "chèn shān",
+    "meaning": "shirt",
+    "lesson_id": 7
+  },
+  {
+    "id": 99,
+    "original": "袜子",
+    "pronunciation": "wàzi",
+    "meaning": "socks",
+    "lesson_id": 7
+  },
+  {
+    "id": 100,
+    "original": "手套",
+    "pronunciation": "shǒutào",
+    "meaning": "gloves",
+    "lesson_id": 7
+  },
+  {
+    "id": 101,
+    "original": "鞋",
+    "pronunciation": "xié",
+    "meaning": "shoes",
+    "lesson_id": 7
+  },
+  {
+    "id": 102,
+    "original": "杯子",
+    "pronunciation": "bēizi",
+    "meaning": "cup",
+    "lesson_id": 7
+  },
+  {
+    "id": 103,
+    "original": "你好!这个杯子多少钱?",
+    "pronunciation": "Nǐ hǎo! Zhège bēizi duōshǎo qián?",
+    "meaning": "Hello! How much is this cup?",
+    "lesson_id": 7
+  },
+  {
+    "id": 104,
+    "original": "这个杯子二十八块.",
+    "pronunciation": "Nǐ hǎo! Zhège bēizi èrshíbā kuài.",
+    "meaning": "This cup is 28 pieces.",
+    "lesson_id": 7
+  },
+  {
+    "id": 105,
+    "original": "那个杯子多少钱?",
+    "pronunciation": "Nàgè bēizi duōshǎo qián?",
+    "meaning": "How much is that cup?",
+    "lesson_id": 7
+  },
+  {
+    "id": 106,
+    "original": "那个杯子十八块钱?",
+    "pronunciation": "Nàgè bēizi shíbā kuài qián.",
+    "meaning": "That cup is 18 pieces of money.",
+    "lesson_id": 7
+  },
+  {
+    "id": 107,
+    "original": "你好请问这件衬衫多少钱?",
+    "pronunciation": "Nǐ hǎo, qǐngwèn zhè jiàn chènshān duōshǎo qián?",
+    "meaning": "Hello, please how much is that shirt?",
+    "lesson_id": 7
+  },
+  {
+    "id": 108,
+    "original": "299块?",
+    "pronunciation": "Èrbǎi jiǔshíjiǔ kuài.",
+    "meaning": "299 pieces.",
+    "lesson_id": 7
+  },
+  {
+    "id": 109,
+    "original": "太贵了,200块吧?",
+    "pronunciation": "Tài guìle, èrbǎi kuài ba?",
+    "meaning": "Too expensive, 200 pieces?",
+    "lesson_id": 7
+  },
+  {
+    "id": 110,
+    "original": "好吧,你要几件?",
+    "pronunciation": "Hǎo ba, nǐ yào jǐ jiàn?",
+    "meaning": "Very good, how many do you want?",
+    "lesson_id": 7
+  },
+  {
+    "id": 111,
+    "original": "昨天",
+    "pronunciation": "zuótiān",
+    "meaning": "yesterday",
+    "lesson_id": 8
+  },
+  {
+    "id": 112,
+    "original": "今天",
+    "pronunciation": "jīntiān",
+    "meaning": "today",
+    "lesson_id": 8
+  },
+  {
+    "id": 113,
+    "original": "明天",
+    "pronunciation": "míngtiān",
+    "meaning": "tomorrow",
+    "lesson_id": 8
+  },
+  {
+    "id": 114,
+    "original": "后天",
+    "pronunciation": "hòutiān",
+    "meaning": "the day after tomorrow",
+    "lesson_id": 8
+  },
+  {
+    "id": 115,
+    "original": "年",
+    "pronunciation": "nián",
+    "meaning": "year",
+    "lesson_id": 8
+  },
+  {
+    "id": 116,
+    "original": "月",
+    "pronunciation": "yuè",
+    "meaning": "month",
+    "lesson_id": 8
+  },
+  {
+    "id": 117,
+    "original": "号",
+    "pronunciation": "hào",
+    "meaning": "day of the month",
+    "lesson_id": 8
+  },
+  {
+    "id": 118,
+    "original": "日",
+    "pronunciation": "rì",
+    "meaning": "day",
+    "lesson_id": 8
+  },
+  {
+    "id": 119,
+    "original": "星期",
+    "pronunciation": "xīngqí",
+    "meaning": "week",
+    "lesson_id": 8
+  },
+  {
+    "id": 120,
+    "original": "周",
+    "pronunciation": "zhōu",
+    "meaning": "week",
+    "lesson_id": 8
+  },
+  {
+    "id": 121,
+    "original": "今天几号?",
+    "pronunciation": "Jīntiān jǐ hào?",
+    "meaning": "What is the date today?",
+    "lesson_id": 8
+  },
+  {
+    "id": 122,
+    "original": "今天是 9 月 1 日.",
+    "pronunciation": "Jīntiān shì 9 yuè 1 rì.",
+    "meaning": "Today is September 1.",
+    "lesson_id": 8
+  },
+  {
+    "id": 123,
+    "original": "今天星期几?",
+    "pronunciation": "Jīntiān xīngqí jǐ?",
+    "meaning": "What day is it today?",
+    "lesson_id": 8
+  },
+  {
+    "id": 124,
+    "original": "星期三.",
+    "pronunciation": "Xīngqísān.",
+    "meaning": "It is Wednesday.",
+    "lesson_id": 8
+  },
+  {
+    "id": 125,
+    "original": "昨天是几号?",
+    "pronunciation": "Zuótiān shì jǐ hào?",
+    "meaning": "What day was it yesterday?",
+    "lesson_id": 8
+  },
+  {
+    "id": 126,
+    "original": "昨天是 8 月 31 日星期二.",
+    "pronunciation": "Zuótiān shì 8 yuè 31 rì xīngqí'èr.",
+    "meaning": "Yesterday was Tuesday, August 31st.",
+    "lesson_id": 8
+  },
+  {
+    "id": 127,
+    "original": "明天呢?",
+    "pronunciation": "Míngtiān ne?",
+    "meaning": "And tomorrow?",
+    "lesson_id": 8
+  },
+  {
+    "id": 128,
+    "original": "明天是 9 月 2 日，星期四.",
+    "pronunciation": "Míngtiān shì 9 yuè 2 rì, xīngqísì.",
+    "meaning": "Tomorrow is Thursday, September 2nd.",
+    "lesson_id": 8
+  },
+  {
+    "id": 129,
+    "original": "生日",
+    "pronunciation": "shēngrì",
+    "meaning": "birthday",
+    "lesson_id": 8
+  },
+  {
+    "id": 130,
+    "original": "早上",
+    "pronunciation": "zǎoshang",
+    "meaning": "morning",
+    "lesson_id": 9
+  },
+  {
+    "id": 131,
+    "original": "上午",
+    "pronunciation": "shàngwǔ",
+    "meaning": "forenoon",
+    "lesson_id": 9
+  },
+  {
+    "id": 132,
+    "original": "中午",
+    "pronunciation": "zhōngwǔ",
+    "meaning": "noon",
+    "lesson_id": 9
+  },
+  {
+    "id": 133,
+    "original": "下午",
+    "pronunciation": "xiàwǔ",
+    "meaning": "afternoon",
+    "lesson_id": 9
+  },
+  {
+    "id": 134,
+    "original": "晚上",
+    "pronunciation": "wǎnshàng",
+    "meaning": "evening",
+    "lesson_id": 9
+  },
+  {
+    "id": 135,
+    "original": "水",
+    "pronunciation": "shuǐ",
+    "meaning": "water",
+    "lesson_id": 9
+  },
+  {
+    "id": 136,
+    "original": "热",
+    "pronunciation": "rè",
+    "meaning": "hot",
+    "lesson_id": 9
+  },
+  {
+    "id": 137,
+    "original": "凉",
+    "pronunciation": "liáng",
+    "meaning": "cold",
+    "lesson_id": 9
+  },
+  {
+    "id": 138,
+    "original": "冰",
+    "pronunciation": "bīng",
+    "meaning": "ice",
+    "lesson_id": 9
+  },
+  {
+    "id": 139,
+    "original": "茶",
+    "pronunciation": "chá",
+    "meaning": "tea",
+    "lesson_id": 9
+  },
+  {
+    "id": 140,
+    "original": "奶茶",
+    "pronunciation": "nǎichá",
+    "meaning": "milk tea",
+    "lesson_id": 9
+  },
+  {
+    "id": 141,
+    "original": "可乐",
+    "pronunciation": "kělè",
+    "meaning": "cola",
+    "lesson_id": 9
+  },
+  {
+    "id": 142,
+    "original": "咖啡",
+    "pronunciation": "Kāfēi",
+    "meaning": "coffee",
+    "lesson_id": 9
+  },
+  {
+    "id": 143,
+    "original": "喝",
+    "pronunciation": "hē",
+    "meaning": "to drink",
+    "lesson_id": 9
+  },
+  {
+    "id": 144,
+    "original": "米饭",
+    "pronunciation": "mǐfàn",
+    "meaning": "rice",
+    "lesson_id": 9
+  },
+  {
+    "id": 145,
+    "original": "面条",
+    "pronunciation": "miàntiáo",
+    "meaning": "noodles",
+    "lesson_id": 9
+  },
+  {
+    "id": 146,
+    "original": "饺子",
+    "pronunciation": "jiǎozi",
+    "meaning": "dumplings",
+    "lesson_id": 9
+  },
+  {
+    "id": 147,
+    "original": "碗",
+    "pronunciation": "wǎn",
+    "meaning": "bowl",
+    "lesson_id": 9
+  },
+  {
+    "id": 148,
+    "original": "吃",
+    "pronunciation": "chī",
+    "meaning": "to eat",
+    "lesson_id": 9
+  },
+  {
+    "id": 149,
+    "original": "去",
+    "pronunciation": "qù",
+    "meaning": "to go",
+    "lesson_id": 9
+  },
+  {
+    "id": 150,
+    "original": "商店",
+    "pronunciation": "shāngdiàn",
+    "meaning": "store",
+    "lesson_id": 9
+  },
+  {
+    "id": 151,
+    "original": "饭店",
+    "pronunciation": "fàndiàn",
+    "meaning": "restaurant",
+    "lesson_id": 9
+  },
+  {
+    "id": 152,
+    "original": "学校",
+    "pronunciation": "xuéxiào",
+    "meaning": "school",
+    "lesson_id": 9
+  },
+  {
+    "id": 153,
+    "original": "图书馆",
+    "pronunciation": "túshū guǎn",
+    "meaning": "library",
+    "lesson_id": 9
+  },
+  {
+    "id": 154,
+    "original": "教室",
+    "pronunciation": "jiàoshì",
+    "meaning": "classroom",
+    "lesson_id": 9
+  },
+  {
+    "id": 155,
+    "original": "看书",
+    "pronunciation": "kànshū",
+    "meaning": "read books",
+    "lesson_id": 9
+  },
+  {
+    "id": 156,
+    "original": "图书馆",
+    "pronunciation": "túshū guǎn",
+    "meaning": "library",
+    "lesson_id": 9
+  },
+  {
+    "id": 157,
+    "original": "你想喝什么?",
+    "pronunciation": "Nǐ xiǎng hē shénme?",
+    "meaning": "What would you like to drink?",
+    "lesson_id": 9
+  },
+  {
+    "id": 158,
+    "original": "我想喝茶.",
+    "pronunciation": "Wǒ xiǎng hē chá.",
+    "meaning": "I would like to drink tea.",
+    "lesson_id": 9
+  },
+  {
+    "id": 159,
+    "original": "你想喝什么?",
+    "pronunciation": "Nǐ xiǎng hē shénme?",
+    "meaning": "What would you like to eat?",
+    "lesson_id": 9
+  },
+  {
+    "id": 160,
+    "original": "我想吃米饭.",
+    "pronunciation": "Wǒ xiǎng chī mǐfàn.",
+    "meaning": "I would like to eat rice.",
+    "lesson_id": 9
+  },
+  {
+    "id": 161,
+    "original": "下午你想做什么?",
+    "pronunciation": "Xiàwǔ nǐ xiǎng zuò shénme?",
+    "meaning": "What would you like to do this afternoon?",
+    "lesson_id": 9
+  },
+  {
+    "id": 162,
+    "original": "下午我想去商店.",
+    "pronunciation": "Xiàwǔ wǒ xiǎng qù shāngdiàn.",
+    "meaning": "This afternoon I would like to go to the store.",
+    "lesson_id": 9
+  },
+  {
+    "id": 163,
+    "original": "你想买什么?",
+    "pronunciation": "Nǐ xiǎng mǎi shénme?",
+    "meaning": "What do you want to buy?",
+    "lesson_id": 9
+  },
+  {
+    "id": 164,
+    "original": "我想买一个杯子.",
+    "pronunciation": "Wǒ xiǎng mǎi yīgè bēizi.",
+    "meaning": "I would like to buy a cup.",
+    "lesson_id": 9
+  },
+  {
+    "id": 165,
+    "original": "服务员",
+    "pronunciation": "fúwùyuán",
+    "meaning": "waiter",
+    "lesson_id": 10
+  },
+  {
+    "id": 166,
+    "original": "顾客",
+    "pronunciation": "gùkè",
+    "meaning": "client, customer",
+    "lesson_id": 10
+  },
+  {
+    "id": 167,
+    "original": "酸",
+    "pronunciation": "suān",
+    "meaning": "sour",
+    "lesson_id": 10
+  },
+  {
+    "id": 168,
+    "original": "甜",
+    "pronunciation": "tián",
+    "meaning": "sweet",
+    "lesson_id": 10
+  },
+  {
+    "id": 169,
+    "original": "辣",
+    "pronunciation": "là",
+    "meaning": "spicy",
+    "lesson_id": 10
+  },
+  {
+    "id": 170,
+    "original": "牛肉面",
+    "pronunciation": "niúròu miàn",
+    "meaning": "beef noodles",
+    "lesson_id": 10
+  },
+  {
+    "id": 171,
+    "original": "豆腐",
+    "pronunciation": "dòufu",
+    "meaning": "tofu",
+    "lesson_id": 10
+  },
+  {
+    "id": 172,
+    "original": "炒饭",
+    "pronunciation": "chǎofàn",
+    "meaning": "fried rice",
+    "lesson_id": 10
+  },
+  {
+    "id": 173,
+    "original": "烤鸭",
+    "pronunciation": "kǎoyā",
+    "meaning": "roast duck",
+    "lesson_id": 10
+  },
+  {
+    "id": 174,
+    "original": "饺子",
+    "pronunciation": "jiǎozi",
+    "meaning": "dumpling",
+    "lesson_id": 10
+  },
+  {
+    "id": 175,
+    "original": "小",
+    "pronunciation": "xiǎo",
+    "meaning": "small",
+    "lesson_id": 11
+  },
+  {
+    "id": 176,
+    "original": "猫",
+    "pronunciation": "māo",
+    "meaning": "cat",
+    "lesson_id": 11
+  },
+  {
+    "id": 177,
+    "original": "狗",
+    "pronunciation": "gǒu",
+    "meaning": "dog",
+    "lesson_id": 11
+  },
+  {
+    "id": 178,
+    "original": "电脑",
+    "pronunciation": "diànnǎo",
+    "meaning": "computer",
+    "lesson_id": 11
+  },
+  {
+    "id": 179,
+    "original": "书",
+    "pronunciation": "shū",
+    "meaning": "book",
+    "lesson_id": 11
+  },
+  {
+    "id": 180,
+    "original": "手机",
+    "pronunciation": "shǒujī",
+    "meaning": "cell phone",
+    "lesson_id": 11
+  },
+  {
+    "id": 181,
+    "original": "客厅",
+    "pronunciation": "kètīng",
+    "meaning": "living room",
+    "lesson_id": 11
+  },
+  {
+    "id": 182,
+    "original": "银行",
+    "pronunciation": "Yínháng",
+    "meaning": "bank",
+    "lesson_id": 11
+  },
+  {
+    "id": 183,
+    "original": "在",
+    "pronunciation": "zài",
+    "meaning": "in; be; at",
+    "lesson_id": 11
+  },
+  {
+    "id": 184,
+    "original": "这儿",
+    "pronunciation": "zhè'er",
+    "meaning": "here",
+    "lesson_id": 11
+  },
+  {
+    "id": 185,
+    "original": "那儿",
+    "pronunciation": "nà'er",
+    "meaning": "there",
+    "lesson_id": 11
+  },
+  {
+    "id": 186,
+    "original": "哪儿",
+    "pronunciation": "nǎ'er",
+    "meaning": "where",
+    "lesson_id": 11
+  },
+  {
+    "id": 187,
+    "original": "上面",
+    "pronunciation": "shàngmiàn",
+    "meaning": "over; on top of",
+    "lesson_id": 11
+  },
+  {
+    "id": 188,
+    "original": "下面",
+    "pronunciation": "xiàmiàn",
+    "meaning": "below; under",
+    "lesson_id": 11
+  },
+  {
+    "id": 189,
+    "original": "前面",
+    "pronunciation": "qiánmiàn",
+    "meaning": "front",
+    "lesson_id": 11
+  },
+  {
+    "id": 190,
+    "original": "后面",
+    "pronunciation": "hòumiàn",
+    "meaning": "at the back; behind",
+    "lesson_id": 11
+  },
+  {
+    "id": 191,
+    "original": "小猫在哪儿?",
+    "pronunciation": "Xiǎo māo zài nǎ'er?",
+    "meaning": "Where is the kitten?",
+    "lesson_id": 11
+  },
+  {
+    "id": 192,
+    "original": "小猫在那儿.",
+    "pronunciation": "Xiǎo māo zài nà'er.",
+    "meaning": "The kitten is there.",
+    "lesson_id": 11
+  },
+  {
+    "id": 193,
+    "original": "小狗在哪儿?",
+    "pronunciation": "Xiǎo gǒu zài nǎ'er?",
+    "meaning": "Where is the dog?",
+    "lesson_id": 11
+  },
+  {
+    "id": 194,
+    "original": "小狗在椅子下面",
+    "pronunciation": "Xiǎo gǒu zài yǐzi xiàmiàn.",
+    "meaning": "The dog is under the chair.",
+    "lesson_id": 11
+  },
+  {
+    "id": 195,
+    "original": "你爸爸在家吗?",
+    "pronunciation": "Nǐ bàba zàijiā ma?",
+    "meaning": "Is your father at home?",
+    "lesson_id": 11
+  },
+  {
+    "id": 196,
+    "original": "不在家",
+    "pronunciation": "Bù zàijiā.",
+    "meaning": "Not at home.",
+    "lesson_id": 11
+  },
+  {
+    "id": 197,
+    "original": "他在哪儿呢?",
+    "pronunciation": "Tā zài nǎ'er ne?",
+    "meaning": "Where is he?",
+    "lesson_id": 11
+  },
+  {
+    "id": 198,
+    "original": "他在医院.",
+    "pronunciation": "Tā zài yīyuàn.",
+    "meaning": "He is in the hospital.",
+    "lesson_id": 11
+  },
+  {
+    "id": 199,
+    "original": "桌子上有什么?",
+    "pronunciation": "Zhuōzi shàng yǒu shé me?",
+    "meaning": "What is on the desk?",
+    "lesson_id": 11
+  },
+  {
+    "id": 200,
+    "original": "桌子上有一个电脑和一本书.",
+    "pronunciation": "Zhuōzi shàng yǒu yīgè diànnǎo hé yī běn shū.",
+    "meaning": "There is a computer and a book on the desk.",
+    "lesson_id": 11
+  },
+  {
+    "id": 201,
+    "original": "杯子在那儿?",
+    "pronunciation": "Bēizi zài nǎ'er?",
+    "meaning": "Where is the cup?",
+    "lesson_id": 11
+  },
+  {
+    "id": 202,
+    "original": "杯子在桌子上.",
+    "pronunciation": "Bēizi zài zhuōzi shàng.",
+    "meaning": "The cup is in the desk.",
+    "lesson_id": 11
+  },
+  {
+    "id": 203,
+    "original": "公司",
+    "pronunciation": "gōngsī",
+    "meaning": "company",
+    "lesson_id": 12
+  },
+  {
+    "id": 204,
+    "original": "学习",
+    "pronunciation": "xuéxí",
+    "meaning": "to study; to learn",
+    "lesson_id": 12
+  },
+  {
+    "id": 205,
+    "original": "游泳",
+    "pronunciation": "yóuyǒng",
+    "meaning": "to swim",
+    "lesson_id": 12
+  },
+  {
+    "id": 206,
+    "original": "工作",
+    "pronunciation": "gōngzuò",
+    "meaning": "work; job",
+    "lesson_id": 12
+  },
+  {
+    "id": 207,
+    "original": "医生",
+    "pronunciation": "yīshēng",
+    "meaning": "doctor",
+    "lesson_id": 12
+  },
+  {
+    "id": 208,
+    "original": "医院",
+    "pronunciation": "yīyuàn",
+    "meaning": "hospital",
+    "lesson_id": 12
+  },
+  {
+    "id": 209,
+    "original": "你在哪儿工作?",
+    "pronunciation": "Nǐ zài nǎ'er gōngzuò?",
+    "meaning": "Where do you work?",
+    "lesson_id": 12
+  },
+  {
+    "id": 210,
+    "original": "我在学校工作.",
+    "pronunciation": "Wǒ zài xuéxiào gōngzuò.",
+    "meaning": "I work in a school.",
+    "lesson_id": 12
+  },
+  {
+    "id": 211,
+    "original": "你儿子哪儿工作?",
+    "pronunciation": "Nǐ érzi zài nǎ'er gōngzuò?",
+    "meaning": "Where does your son work?",
+    "lesson_id": 12
+  },
+  {
+    "id": 212,
+    "original": "我儿子在医院工作, 他是医生.",
+    "pronunciation": "Wǒ érzi zài yīyuàn gōngzuò, tā shì yīshēng.",
+    "meaning": "My son works at the hospital, he is a doctor.",
+    "lesson_id": 12
+  },
+  {
+    "id": 213,
+    "original": "前面那个人，叫什么名字?",
+    "pronunciation": "Qiánmiàn nàgè rén, jiào shénme míngzì?",
+    "meaning": "The person in front, what is their name?",
+    "lesson_id": 12
+  },
+  {
+    "id": 214,
+    "original": "她叫王芳，在医院工作.",
+    "pronunciation": "Tā jiào Wáng Fāng, zài yīyuàn gōngzuò.",
+    "meaning": "She is called Wang Fang, she works at the hospital.",
+    "lesson_id": 12
+  },
+  {
+    "id": 215,
+    "original": "后面那个人，叫什么名字?",
+    "pronunciation": "Hòumiàn nàgè rén, jiào shénme míngzì?",
+    "meaning": "The person in the back, what is their name?",
+    "lesson_id": 12
+  },
+  {
+    "id": 216,
+    "original": "她叫谢鹏，在商店工作.",
+    "pronunciation": "Tā jiào Xiè Péng, zài shāngdiàn gōngzuò.",
+    "meaning": "My son works at the hospital, he is a doctor.",
+    "lesson_id": 12
+  },
+  {
+    "id": 217,
+    "original": "这儿有人吗?",
+    "pronunciation": "Zhè'er yǒurén ma?",
+    "meaning": "Anyone here?",
+    "lesson_id": 12
+  },
+  {
+    "id": 218,
+    "original": "没有.",
+    "pronunciation": "Méi yǒu.",
+    "meaning": "No one.",
+    "lesson_id": 12
+  },
+  {
+    "id": 219,
+    "original": "我能坐这儿吗?",
+    "pronunciation": "Wǒ néng zuò zhè'er ma?",
+    "meaning": "Can I sit here?",
+    "lesson_id": 12
+  },
+  {
+    "id": 220,
+    "original": "请坐.",
+    "pronunciation": "Qǐng zuò.",
+    "meaning": "Please sit.",
+    "lesson_id": 12
+  },
+  {
+    "id": 221,
+    "original": "点",
+    "pronunciation": "diǎn",
+    "meaning": "o'clock",
+    "lesson_id": 13
+  },
+  {
+    "id": 222,
+    "original": "点钟",
+    "pronunciation": "diǎn zhōng",
+    "meaning": "o'clock",
+    "lesson_id": 13
+  },
+  {
+    "id": 223,
+    "original": "现在",
+    "pronunciation": "xiànzài",
+    "meaning": "now",
+    "lesson_id": 13
+  },
+  {
+    "id": 224,
+    "original": "半",
+    "pronunciation": "bàn",
+    "meaning": "half",
+    "lesson_id": 13
+  },
+  {
+    "id": 225,
+    "original": "分",
+    "pronunciation": "fēn",
+    "meaning": "minute",
+    "lesson_id": 13
+  },
+  {
+    "id": 226,
+    "original": "刻",
+    "pronunciation": "kè",
+    "meaning": "quarter",
+    "lesson_id": 13
+  },
+  {
+    "id": 227,
+    "original": "住",
+    "pronunciation": "zhù",
+    "meaning": "to live; to stay",
+    "lesson_id": 13
+  },
+  {
+    "id": 228,
+    "original": "电影",
+    "pronunciation": "diànyǐng",
+    "meaning": "movie",
+    "lesson_id": 13
+  },
+  {
+    "id": 229,
+    "original": "时候",
+    "pronunciation": "shíhòu",
+    "meaning": "when",
+    "lesson_id": 13
+  },
+  {
+    "id": 230,
+    "original": "回",
+    "pronunciation": "huí",
+    "meaning": "to return",
+    "lesson_id": 13
+  },
+  {
+    "id": 231,
+    "original": "宿舍",
+    "pronunciation": "sùshè",
+    "meaning": "dormitory",
+    "lesson_id": 13
+  }
+]
