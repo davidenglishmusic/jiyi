@@ -9,10 +9,10 @@ export default class extends Controller {
     }
 
     next() {
-        window.location.pathname = (this.element.dataset.nextUrl)
+        window.location = this.element.dataset.nextUrl;
     }
 
     prev() {
-        window.location.pathname = (this.element.dataset.prevUrl)
+        window.location = this.element.dataset.prevUrl;
     }
 }
