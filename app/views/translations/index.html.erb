@@ -5,10 +5,10 @@
     <h2>Lesson <%= group.first %></h2>
     <%= button_to 'Review',
       translation_path(group.last.first),
-      class: 'px-4 py-2 font-semibold text-sm bg-sky-500 text-white rounded-none shadow-sm',
+      class: 'px-8 py-2 font-semibold text-sm bg-sky-500 text-white rounded-none shadow-sm',
       method: :get %>
     <ul>
-      <% group.last.each do |translation| %>
+      <% group.last.sort.each do |translation| %>
         <li>
           <%= translation.original %>
           <%= translation.pronunciation %>
