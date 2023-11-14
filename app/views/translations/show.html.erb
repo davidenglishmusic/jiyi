@@ -6,7 +6,7 @@
     next_url: @next_url,
     prev_url: @prev_url
   } do %>
-  <div class="text-9xl pb-8"><%= @translation.original %></div>
+  <div class="text-6xl lg:text-9xl pb-8"><%= @translation.original %></div>
   <div class="text-3xl pb-4 invisible" data-translation-target="pronunciation"><%= @translation.pronunciation %></div>
   <div class="text-3xl invisible" data-translation-target="meaning"><%= @translation.meaning %></div>
 <% end %>
