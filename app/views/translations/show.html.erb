@@ -2,7 +2,7 @@
   class: 'h-screen flex flex-col items-center justify-center',
   data: {
     controller: 'translation',
-    action: 'click@window->translation#reveal keydown.right@window->translation#next keydown.left@window->translation#prev',
+    action: 'click@window->translation#revealOrNext keydown.space@window->translation#revealOrNext keydown.left@window->translation#prev',
     next_url: @next_url,
     prev_url: @prev_url
   } do %>

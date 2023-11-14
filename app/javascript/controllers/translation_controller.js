@@ -12,6 +12,14 @@ export default class extends Controller {
         window.location = this.element.dataset.nextUrl;
     }
 
+    revealOrNext() {
+        if (this.pronunciationTarget.classList.contains('invisible')) {
+            this.reveal();
+        } else {
+            this.next();
+        }
+    }
+
     prev() {
         window.location = this.element.dataset.prevUrl;
     }
