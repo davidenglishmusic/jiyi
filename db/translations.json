@@ -78,7 +78,7 @@
   },
   {
     "id": 12,
-    "original": "你叫什么名字",
+    "original": "你 叫 什么 名字",
     "pronunciation": "Nǐ jiào shénme míngzì?",
     "meaning": "What is your name?",
     "lesson_id": 1
@@ -148,42 +148,42 @@
   },
   {
     "id": 22,
-    "original": "你是老师吗",
+    "original": "你 是 老师 吗?",
     "pronunciation": "Nǐ shì lǎoshī ma?",
     "meaning": "Are you the teacher?",
     "lesson_id": 2
   },
   {
     "id": 23,
-    "original": "我不是老师,我是学生.你呢?",
+    "original": "我 不是 老师, 我 是 学生. 你呢?",
     "pronunciation": "Wǒ bù shì lǎoshī, wǒ shì xuéshēng. Nǐ ne?",
     "meaning": "I am not teacher, I am a student. And you?",
     "lesson_id": 2
   },
   {
     "id": 24,
-    "original": "我也是学生.",
+    "original": "我 也 是 学生.",
     "pronunciation": "Wǒ yě shì xuéshēng.",
     "meaning": "I am also a student.",
     "lesson_id": 2
   },
   {
     "id": 25,
-    "original": "你是中国人呢?",
+    "original": "你 是 中国 人 呢?",
     "pronunciation": "Nǐ shì Zhōngguó rén ma?",
     "meaning": "Are you Chinese?",
     "lesson_id": 2
   },
   {
     "id": 26,
-    "original": "我不是中国人,我是美国人.",
+    "original": "我 不是 中国 人, 我 是 美国 人.",
     "pronunciation": "Wǒ bù shì Zhōngguó rén, wǒ shì měiguó rén.",
     "meaning": "I am not Chinese. I am American.",
     "lesson_id": 2
   },
   {
     "id": 27,
-    "original": "谢谢你!",
+    "original": "谢谢 你!",
     "pronunciation": "Xièxiè nǐ!",
     "meaning": "Thank you!",
     "lesson_id": 2
@@ -204,7 +204,7 @@
   },
   {
     "id": 30,
-    "original": "没关系!",
+    "original": "没 关系!",
     "pronunciation": "Méi guānxì!",
     "meaning": "That's okay!",
     "lesson_id": 2
@@ -288,42 +288,42 @@
   },
   {
     "id": 42,
-    "original": "她是谁?",
+    "original": "她 是 谁?",
     "pronunciation": "Tā shì shéi?",
     "meaning": "Who is she?",
     "lesson_id": 3
   },
   {
     "id": 43,
-    "original": "她是我的汉语老师,她叫李悦.",
+    "original": "她 是 我 的 汉语 老师, 她 叫 李悦.",
     "pronunciation": "Tā shì wǒ de hànyǔ lǎoshī, tā jiào Lǐ Yuè.",
     "meaning": "She is my Chinese teacher, she is called Li Yue.",
     "lesson_id": 3
   },
   {
     "id": 44,
-    "original": "他是谁",
+    "original": "他 是 谁?",
     "pronunciation": "Tā shì shéi?",
     "meaning": "Who is he?",
     "lesson_id": 3
   },
   {
     "id": 45,
-    "original": "他是我同学",
+    "original": "他 是 我 同学.",
     "pronunciation": "Tā shì wǒ tóngxué.",
     "meaning": "He is my classmate.",
     "lesson_id": 3
   },
   {
     "id": 46,
-    "original": "她呢? 她是你同学吗?",
+    "original": "她呢? 她 是 你 同学 吗?",
     "pronunciation": "Tā ne? Tā shì nǐ tóngxué ma?",
     "meaning": "And her? She is also your classmate?",
     "lesson_id": 3
   },
   {
     "id": 47,
-    "original": "她不是我同学. 她是我朋友.",
+    "original": "她 不是 我 同学. 她 是 我 朋友.",
     "pronunciation": "Tā bù shì wǒ tóngxué. Tā shì wǒ péngyǒu.",
     "meaning": "She is not my classmate. She is my friend.",
     "lesson_id": 3
@@ -470,28 +470,28 @@
   },
   {
     "id": 68,
-    "original": "你家有几口人",
+    "original": "你 家 有 几 口 人?",
     "pronunciation": "Nǐ jiā yǒu jǐ kǒu rén?",
     "meaning": "How many family members do you have?",
     "lesson_id": 5
   },
   {
     "id": 69,
-    "original": "我家有四口人.有爸爸,妈妈,哥哥和我.",
+    "original": "我 家 有 四 口 人.有 爸爸, 妈妈,哥哥 和 我.",
     "pronunciation": "Wǒ jiā yǒu sì kǒu rén. Yǒu bàba, māmā, gēgē, hé wǒ.",
     "meaning": "I have four family members. I have dad, mom, older brother, and me.",
     "lesson_id": 5
   },
   {
     "id": 70,
-    "original": "你今年多大了?",
+    "original": "你 今年 多大了?",
     "pronunciation": "Nǐ jīnnián duōdàle?",
     "meaning": "How old are you this year?",
     "lesson_id": 5
   },
   {
     "id": 71,
-    "original": "我今年二十岁.",
+    "original": "我 今年 二十岁.",
     "pronunciation": "Wǒ jīnnián èr shí suì.",
     "meaning": "I am twenty years old.",
     "lesson_id": 5
@@ -561,21 +561,21 @@
   },
   {
     "id": 81,
-    "original": "我会做菜,我喜欢中国菜.你呢?",
+    "original": "我 会 做 菜, 我 喜欢 中国 菜. 你呢?",
     "pronunciation": "Wǒ huì zuò cài, wǒ xǐhuān zhōngguó cài. Nǐ ne?",
     "meaning": "I can cook. I like Chinese food. And you?",
     "lesson_id": 6
   },
   {
     "id": 82,
-    "original": "我会做法国菜.我很喜欢法国菜.",
+    "original": "我 会 做 法国 菜. 我 很 喜欢 法国 菜.",
     "pronunciation": "Wǒ huì zuò fàguó cài. Wǒ hěn xǐhuān fàguó cài.",
     "meaning": "I can cook French food. I really like French food.",
     "lesson_id": 6
   },
   {
     "id": 83,
-    "original": "你会写汉字吗?",
+    "original": "你 会 写 汉字 吗?",
     "pronunciation": "Nǐ huì xiě hànzì ma?",
     "meaning": "Can you write Chinese characters?",
     "lesson_id": 6
@@ -589,15 +589,15 @@
   },
   {
     "id": 85,
-    "original": "这个字怎么写?",
+    "original": "这个 字 怎么 写?",
     "pronunciation": "Zhège zì zěnme xiě?",
     "meaning": "How do you write this character?",
     "lesson_id": 6
   },
   {
     "id": 86,
-    "original": "对不起,这个字我会读,不会写",
-    "pronunciation": "Duìbùqǐ zhège zì wǒ huì dú, bù huì xiě",
+    "original": "对不起, 这个 字 我 会 读, 不会 写.",
+    "pronunciation": "Duìbùqǐ zhège zì wǒ huì dú, bù huì xiě.",
     "meaning": "Sorry. I can read that word, but cannot write.",
     "lesson_id": 6
   },
@@ -715,35 +715,35 @@
   },
   {
     "id": 103,
-    "original": "你好!这个杯子多少钱?",
+    "original": "你好! 这个 杯子 多少 钱?",
     "pronunciation": "Nǐ hǎo! Zhège bēizi duōshǎo qián?",
     "meaning": "Hello! How much is this cup?",
     "lesson_id": 7
   },
   {
     "id": 104,
-    "original": "这个杯子二十八块.",
-    "pronunciation": "Nǐ hǎo! Zhège bēizi èrshíbā kuài.",
+    "original": "这个 杯子 二十八 块.",
+    "pronunciation": "Zhège bēizi èrshíbā kuài.",
     "meaning": "This cup is 28 pieces.",
     "lesson_id": 7
   },
   {
     "id": 105,
-    "original": "那个杯子多少钱?",
+    "original": "那个 杯子 多少 钱?",
     "pronunciation": "Nàgè bēizi duōshǎo qián?",
     "meaning": "How much is that cup?",
     "lesson_id": 7
   },
   {
     "id": 106,
-    "original": "那个杯子十八块钱?",
+    "original": "那个 杯子 十八 块 钱?",
     "pronunciation": "Nàgè bēizi shíbā kuài qián.",
     "meaning": "That cup is 18 pieces of money.",
     "lesson_id": 7
   },
   {
     "id": 107,
-    "original": "你好请问这件衬衫多少钱?",
+    "original": "你好, 请问 这 件 衬衫 多少 钱?",
     "pronunciation": "Nǐ hǎo, qǐngwèn zhè jiàn chènshān duōshǎo qián?",
     "meaning": "Hello, please how much is that shirt?",
     "lesson_id": 7
@@ -757,14 +757,14 @@
   },
   {
     "id": 109,
-    "original": "太贵了,200块吧?",
+    "original": "太贵了, 200 块 吧?",
     "pronunciation": "Tài guìle, èrbǎi kuài ba?",
     "meaning": "Too expensive, 200 pieces?",
     "lesson_id": 7
   },
   {
     "id": 110,
-    "original": "好吧,你要几件?",
+    "original": "好吧, 你 要 几 件?",
     "pronunciation": "Hǎo ba, nǐ yào jǐ jiàn?",
     "meaning": "Very good, how many do you want?",
     "lesson_id": 7
@@ -841,7 +841,7 @@
   },
   {
     "id": 121,
-    "original": "今天几号?",
+    "original": "今天 几 号?",
     "pronunciation": "Jīntiān jǐ hào?",
     "meaning": "What is the date today?",
     "lesson_id": 8
@@ -855,7 +855,7 @@
   },
   {
     "id": 123,
-    "original": "今天星期几?",
+    "original": "今天 星期 几?",
     "pronunciation": "Jīntiān xīngqí jǐ?",
     "meaning": "What day is it today?",
     "lesson_id": 8
@@ -869,7 +869,7 @@
   },
   {
     "id": 125,
-    "original": "昨天是几号?",
+    "original": "昨天 是 几 号?",
     "pronunciation": "Zuótiān shì jǐ hào?",
     "meaning": "What day was it yesterday?",
     "lesson_id": 8
@@ -883,7 +883,7 @@
   },
   {
     "id": 127,
-    "original": "明天呢?",
+    "original": "明天 呢?",
     "pronunciation": "Míngtiān ne?",
     "meaning": "And tomorrow?",
     "lesson_id": 8
@@ -1093,56 +1093,56 @@
   },
   {
     "id": 157,
-    "original": "你想喝什么?",
+    "original": "你 想 喝 什么?",
     "pronunciation": "Nǐ xiǎng hē shénme?",
     "meaning": "What would you like to drink?",
     "lesson_id": 9
   },
   {
     "id": 158,
-    "original": "我想喝茶.",
+    "original": "我 想 喝 茶.",
     "pronunciation": "Wǒ xiǎng hē chá.",
     "meaning": "I would like to drink tea.",
     "lesson_id": 9
   },
   {
     "id": 159,
-    "original": "你想喝什么?",
-    "pronunciation": "Nǐ xiǎng hē shénme?",
+    "original": "你 想 吃 什么?",
+    "pronunciation": "Nǐ xiǎng chī shénme?",
     "meaning": "What would you like to eat?",
     "lesson_id": 9
   },
   {
     "id": 160,
-    "original": "我想吃米饭.",
+    "original": "我 想 吃 米饭.",
     "pronunciation": "Wǒ xiǎng chī mǐfàn.",
     "meaning": "I would like to eat rice.",
     "lesson_id": 9
   },
   {
     "id": 161,
-    "original": "下午你想做什么?",
+    "original": "下午 你 想 做 什么?",
     "pronunciation": "Xiàwǔ nǐ xiǎng zuò shénme?",
     "meaning": "What would you like to do this afternoon?",
     "lesson_id": 9
   },
   {
     "id": 162,
-    "original": "下午我想去商店.",
+    "original": "下午 我 想 去 商店.",
     "pronunciation": "Xiàwǔ wǒ xiǎng qù shāngdiàn.",
     "meaning": "This afternoon I would like to go to the store.",
     "lesson_id": 9
   },
   {
     "id": 163,
-    "original": "你想买什么?",
+    "original": "你 想 买 什么?",
     "pronunciation": "Nǐ xiǎng mǎi shénme?",
     "meaning": "What do you want to buy?",
     "lesson_id": 9
   },
   {
     "id": 164,
-    "original": "我想买一个杯子.",
+    "original": "我 想 买 一个 杯子.",
     "pronunciation": "Wǒ xiǎng mǎi yīgè bēizi.",
     "meaning": "I would like to buy a cup.",
     "lesson_id": 9
@@ -1184,7 +1184,7 @@
   },
   {
     "id": 170,
-    "original": "牛肉面",
+    "original": "牛肉 面",
     "pronunciation": "niúròu miàn",
     "meaning": "beef noodles",
     "lesson_id": 10
@@ -1331,35 +1331,35 @@
   },
   {
     "id": 191,
-    "original": "小猫在哪儿?",
+    "original": "小 猫 在 哪儿?",
     "pronunciation": "Xiǎo māo zài nǎ'er?",
     "meaning": "Where is the kitten?",
     "lesson_id": 11
   },
   {
     "id": 192,
-    "original": "小猫在那儿.",
+    "original": "小 猫 在 那儿.",
     "pronunciation": "Xiǎo māo zài nà'er.",
     "meaning": "The kitten is there.",
     "lesson_id": 11
   },
   {
     "id": 193,
-    "original": "小狗在哪儿?",
+    "original": "小 狗 在 哪儿?",
     "pronunciation": "Xiǎo gǒu zài nǎ'er?",
     "meaning": "Where is the dog?",
     "lesson_id": 11
   },
   {
     "id": 194,
-    "original": "小狗在椅子下面",
+    "original": "小 狗 在 椅子 下面",
     "pronunciation": "Xiǎo gǒu zài yǐzi xiàmiàn.",
     "meaning": "The dog is under the chair.",
     "lesson_id": 11
   },
   {
     "id": 195,
-    "original": "你爸爸在家吗?",
+    "original": "你 爸爸 在家 吗?",
     "pronunciation": "Nǐ bàba zàijiā ma?",
     "meaning": "Is your father at home?",
     "lesson_id": 11
@@ -1373,42 +1373,42 @@
   },
   {
     "id": 197,
-    "original": "他在哪儿呢?",
+    "original": "他 在 哪儿 呢?",
     "pronunciation": "Tā zài nǎ'er ne?",
     "meaning": "Where is he?",
     "lesson_id": 11
   },
   {
     "id": 198,
-    "original": "他在医院.",
+    "original": "他 在 医院.",
     "pronunciation": "Tā zài yīyuàn.",
     "meaning": "He is in the hospital.",
     "lesson_id": 11
   },
   {
     "id": 199,
-    "original": "桌子上有什么?",
-    "pronunciation": "Zhuōzi shàng yǒu shé me?",
+    "original": "桌子 上 有 什么?",
+    "pronunciation": "Zhuōzi shàng yǒu shéme?",
     "meaning": "What is on the desk?",
     "lesson_id": 11
   },
   {
     "id": 200,
-    "original": "桌子上有一个电脑和一本书.",
+    "original": "桌子 上 有 一个 电脑 和 一本 书.",
     "pronunciation": "Zhuōzi shàng yǒu yīgè diànnǎo hé yī běn shū.",
     "meaning": "There is a computer and a book on the desk.",
     "lesson_id": 11
   },
   {
     "id": 201,
-    "original": "杯子在那儿?",
+    "original": "杯子 在 那儿?",
     "pronunciation": "Bēizi zài nǎ'er?",
     "meaning": "Where is the cup?",
     "lesson_id": 11
   },
   {
     "id": 202,
-    "original": "杯子在桌子上.",
+    "original": "杯子 在 桌子 上.",
     "pronunciation": "Bēizi zài zhuōzi shàng.",
     "meaning": "The cup is in the desk.",
     "lesson_id": 11
@@ -1457,63 +1457,63 @@
   },
   {
     "id": 209,
-    "original": "你在哪儿工作?",
+    "original": "你 在 哪儿 工作?",
     "pronunciation": "Nǐ zài nǎ'er gōngzuò?",
     "meaning": "Where do you work?",
     "lesson_id": 12
   },
   {
     "id": 210,
-    "original": "我在学校工作.",
+    "original": "我 在 学校 工作.",
     "pronunciation": "Wǒ zài xuéxiào gōngzuò.",
     "meaning": "I work in a school.",
     "lesson_id": 12
   },
   {
     "id": 211,
-    "original": "你儿子哪儿工作?",
+    "original": "你 儿子 哪儿 工作?",
     "pronunciation": "Nǐ érzi zài nǎ'er gōngzuò?",
     "meaning": "Where does your son work?",
     "lesson_id": 12
   },
   {
     "id": 212,
-    "original": "我儿子在医院工作, 他是医生.",
+    "original": "我 儿子 在 医院 工作, 他 是 医生.",
     "pronunciation": "Wǒ érzi zài yīyuàn gōngzuò, tā shì yīshēng.",
     "meaning": "My son works at the hospital, he is a doctor.",
     "lesson_id": 12
   },
   {
     "id": 213,
-    "original": "前面那个人，叫什么名字?",
+    "original": "前面 那个 人，叫 什么 名字?",
     "pronunciation": "Qiánmiàn nàgè rén, jiào shénme míngzì?",
     "meaning": "The person in front, what is their name?",
     "lesson_id": 12
   },
   {
     "id": 214,
-    "original": "她叫王芳，在医院工作.",
+    "original": "她 叫 王芳，在 医院 工作.",
     "pronunciation": "Tā jiào Wáng Fāng, zài yīyuàn gōngzuò.",
     "meaning": "She is called Wang Fang, she works at the hospital.",
     "lesson_id": 12
   },
   {
     "id": 215,
-    "original": "后面那个人，叫什么名字?",
+    "original": "后面 那个 人，叫 什么 名字?",
     "pronunciation": "Hòumiàn nàgè rén, jiào shénme míngzì?",
     "meaning": "The person in the back, what is their name?",
     "lesson_id": 12
   },
   {
     "id": 216,
-    "original": "她叫谢鹏，在商店工作.",
+    "original": "她 叫 谢鹏，在 商店 工作.",
     "pronunciation": "Tā jiào Xiè Péng, zài shāngdiàn gōngzuò.",
     "meaning": "My son works at the hospital, he is a doctor.",
     "lesson_id": 12
   },
   {
     "id": 217,
-    "original": "这儿有人吗?",
+    "original": "这儿 有人 吗?",
     "pronunciation": "Zhè'er yǒurén ma?",
     "meaning": "Anyone here?",
     "lesson_id": 12
@@ -1527,7 +1527,7 @@
   },
   {
     "id": 219,
-    "original": "我能坐这儿吗?",
+    "original": "我 能 坐 这儿 吗?",
     "pronunciation": "Wǒ néng zuò zhè'er ma?",
     "meaning": "Can I sit here?",
     "lesson_id": 12
