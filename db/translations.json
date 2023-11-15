@@ -1923,5 +1923,61 @@
     "pronunciation": "Tā méi kànshū, tā zàixué zuò zhōngguó cài ne.",
     "meaning": "He is not reading, he is learning to cook Chinese food.",
     "lesson_id": 15
+  },
+  {
+    "id": 275,
+    "original": "明天 上午 你 去 哪儿 了?",
+    "pronunciation": "Míngtiān shàngwǔ nǐ qù nǎ'er le?",
+    "meaning": "Where will you go tomorrow morning?",
+    "lesson_id": 15
+  },
+  {
+    "id": 276,
+    "original": "我 去 商店 买 东西 了",
+    "pronunciation": "Wǒ qù shāngdiàn mǎi dōngxī le.",
+    "meaning": "I will go to the store to buy something",
+    "lesson_id": 15
+  },
+  {
+    "id": 277,
+    "original": "你 买 什么 了?",
+    "pronunciation": "Nǐ mǎi shénme le?",
+    "meaning": "What will you buy?",
+    "lesson_id": 15
+  },
+  {
+    "id": 278,
+    "original": "我 买 一点儿 苹果.",
+    "pronunciation": "Wǒ mǎi yīdiǎn er píngguǒ.",
+    "meaning": "I will buy some apples.",
+    "lesson_id": 15
+  },
+  {
+    "id": 279,
+    "original": "王 方 的 不少 太 漂亮 了.",
+    "pronunciation": "Wáng fāng de yīfú tài piàoliang le.",
+    "meaning": "Wang Fang's clothes are so beautiful.",
+    "lesson_id": 15
+  },
+  {
+    "id": 280,
+    "original": "是啊, 她 买了 不少.",
+    "pronunciation": "Shì a, tā mǎile bù shǎo.",
+    "meaning": "Yes, she bought a lot.",
+    "lesson_id": 15
+  },
+  {
+    "id": 281,
+    "original": "你 买 什么 了?",
+    "pronunciation": "Nǐ mǎi shénme le?",
+    "meaning": "What will you buy?",
+    "lesson_id": 15
+  },
+  {
+    "id": 282,
+    "original": "我 没 买，这些 东西 王方 是 的东西.",
+    "pronunciation": "Wǒ méi mǎi, zhèxiē dōngxī wáng fāng shì de dōngxī.",
+    "meaning": "I didn't buy it. These things belong to Wang Fang.",
+    "lesson_id": 15
   }
 ]
