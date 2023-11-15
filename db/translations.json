@@ -1706,5 +1706,89 @@
     "pronunciation": "Néng.",
     "meaning": "I can.",
     "lesson_id": 13
+  },
+  {
+    "id": 244,
+    "original": "天气",
+    "pronunciation": "tiānqì",
+    "meaning": "weather",
+    "lesson_id": 14
+  },
+  {
+    "id": 245,
+    "original": "热",
+    "pronunciation": "rè",
+    "meaning": "hot",
+    "lesson_id": 14
+  },
+  {
+    "id": 246,
+    "original": "冷",
+    "pronunciation": "lěng",
+    "meaning": "cold",
+    "lesson_id": 14
+  },
+  {
+    "id": 247,
+    "original": "下雨",
+    "pronunciation": "xiàyǔ",
+    "meaning": "to rain",
+    "lesson_id": 14
+  },
+  {
+    "id": 248,
+    "original": "外面",
+    "pronunciation": "wàimiàn",
+    "meaning": "outside",
+    "lesson_id": 14
+  },
+  {
+    "id": 249,
+    "original": "下雪",
+    "pronunciation": "xiàxuě",
+    "meaning": "to snow",
+    "lesson_id": 14
+  },
+  {
+    "id": 250,
+    "original": "刮风",
+    "pronunciation": "guā fēng",
+    "meaning": "to blow wind",
+    "lesson_id": 14
+  },
+  {
+    "id": 251,
+    "original": "晴天",
+    "pronunciation": "qíngtiān",
+    "meaning": "sunny day",
+    "lesson_id": 14
+  },
+  {
+    "id": 252,
+    "original": "爱",
+    "pronunciation": "ài",
+    "meaning": "to love",
+    "lesson_id": 14
+  },
+  {
+    "id": 253,
+    "original": "来",
+    "pronunciation": "lái",
+    "meaning": "to come",
+    "lesson_id": 14
+  },
+  {
+    "id": 254,
+    "original": "水",
+    "pronunciation": "shuǐ",
+    "meaning": "water",
+    "lesson_id": 14
+  },
+  {
+    "id": 255,
+    "original": "身体",
+    "pronunciation": "shēntǐ",
+    "meaning": "body",
+    "lesson_id": 14
   }
 ]
