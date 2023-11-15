@@ -1615,5 +1615,96 @@
     "pronunciation": "sùshè",
     "meaning": "dormitory",
     "lesson_id": 13
+  },
+  {
+    "id": 232,
+    "original": "现在 几 奌?",
+    "pronunciation": "Xiànzài jǐ diǎn?",
+    "meaning": "What time is it?",
+    "lesson_id": 13
+  },
+  {
+    "id": 233,
+    "original": "现在 是 十 点 十 分.",
+    "pronunciation": "Xiànzài shí diǎn shí fēn.",
+    "meaning": "Now is 10:10.",
+    "lesson_id": 13
+  },
+  {
+    "id": 234,
+    "original": "中午 几 点 吃饭?",
+    "pronunciation": "Zhōngwǔ jǐ diǎn chīfàn?",
+    "meaning": "At what time around noon will we eat?",
+    "lesson_id": 13
+  },
+  {
+    "id": 235,
+    "original": "十二 点 点 吃饭?",
+    "pronunciation": "Shí'èr diǎn chīfàn.",
+    "meaning": "At noon we will eat.",
+    "lesson_id": 13
+  },
+  {
+    "id": 235,
+    "original": "爸爸 什么 时候 回 家?",
+    "pronunciation": "Bàba shénme shíhòu huí jiā?",
+    "meaning": "When will father come home?",
+    "lesson_id": 13
+  },
+  {
+    "id": 236,
+    "original": "下午 五 点.",
+    "pronunciation": "Xiàwǔ wǔ diǎn.",
+    "meaning": "This afternoon at five o'clock",
+    "lesson_id": 13
+  },
+  {
+    "id": 237,
+    "original": "我们 什么 时候 去 看 电影?",
+    "pronunciation": "Wǒmen shénme shíhòu qù kàn diànyǐng?",
+    "meaning": "When are we going to see a movie?",
+    "lesson_id": 13
+  },
+  {
+    "id": 238,
+    "original": "六 点 三十 分.",
+    "pronunciation": "Liù diǎn sānshí fēn.",
+    "meaning": "At 6:30.",
+    "lesson_id": 13
+  },
+  {
+    "id": 239,
+    "original": "我 星期 一 去 北京.",
+    "pronunciation": "Wǒ xīngqí yī qù běijīng.",
+    "meaning": "I go to Beijing on Monday.",
+    "lesson_id": 13
+  },
+  {
+    "id": 240,
+    "original": "你 想 在 北京 住 几 天?",
+    "pronunciation": "Nǐ xiǎng zài běijīng zhù jǐ tiān?",
+    "meaning": "How many days do you like to stay in Beijing?",
+    "lesson_id": 13
+  },
+  {
+    "id": 241,
+    "original": "住 三 天.",
+    "pronunciation": "Zhù sān tiān.",
+    "meaning": "Stay 3 days.",
+    "lesson_id": 13
+  },
+  {
+    "id": 242,
+    "original": "星期 五 前 能 回 家 吗?",
+    "pronunciation": "Xīngqí wǔ qián néng huí jiā ma?",
+    "meaning": "Can I go home before Friday?",
+    "lesson_id": 13
+  },
+  {
+    "id": 243,
+    "original": "能.",
+    "pronunciation": "Néng.",
+    "meaning": "I can.",
+    "lesson_id": 13
   }
 ]
