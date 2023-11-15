@@ -1846,5 +1846,54 @@
     "pronunciation": "Bù huì lái, tiānqì tài lěng le.",
     "meaning": "Will not come, weather too cold.",
     "lesson_id": 14
+  },
+  {
+    "id": 264,
+    "original": "东西",
+    "pronunciation": "dōngxī",
+    "meaning": "thing",
+    "lesson_id": 15
+  },
+  {
+    "id": 265,
+    "original": "一点儿",
+    "pronunciation": "yīdiǎn er",
+    "meaning": "a little",
+    "lesson_id": 15
+  },
+  {
+    "id": 266,
+    "original": "少",
+    "pronunciation": "shǎo",
+    "meaning": "a few",
+    "lesson_id": 15
+  },
+  {
+    "id": 267,
+    "original": "不少",
+    "pronunciation": "bù shǎo",
+    "meaning": "a lot",
+    "lesson_id": 15
+  },
+  {
+    "id": 268,
+    "original": "衣服",
+    "pronunciation": "yīfú",
+    "meaning": "clothing",
+    "lesson_id": 15
+  },
+  {
+    "id": 269,
+    "original": "漂亮",
+    "pronunciation": "piàoliang",
+    "meaning": "beautiful",
+    "lesson_id": 15
+  },
+  {
+    "id": 270,
+    "original": "这些",
+    "pronunciation": "zhèxiē",
+    "meaning": "these",
+    "lesson_id": 15
   }
 ]
