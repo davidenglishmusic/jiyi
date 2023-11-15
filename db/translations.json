@@ -1790,5 +1790,61 @@
     "pronunciation": "shēntǐ",
     "meaning": "body",
     "lesson_id": 14
+  },
+  {
+    "id": 256,
+    "original": "昨天 北京 的 天气 怎么样？",
+    "pronunciation": "Zuótiān běijīng de tiānqì zěnme yàng?",
+    "meaning": "Yesterday how was the weather in Beijing?",
+    "lesson_id": 14
+  },
+  {
+    "id": 257,
+    "original": "太热了.",
+    "pronunciation": "Tài rèle.",
+    "meaning": "Too hot.",
+    "lesson_id": 14
+  },
+  {
+    "id": 258,
+    "original": "明天 呢? 明天 天气 怎么 样?",
+    "pronunciation": "Míngtiān ne? Míngtiān tiānqì zěnme yàng?",
+    "meaning": "And tomorrow? How will tomorrow's weather be?",
+    "lesson_id": 14
+  },
+  {
+    "id": 259,
+    "original": "明天 身体 天气 很 好，不 冷 不 热.",
+    "pronunciation": "Míngtiān tiānqì hěn hǎo, bù lěng bù rè.",
+    "meaning": "Tomorrow's weather will be very good, not cold, not hot.",
+    "lesson_id": 14
+  },
+  {
+    "id": 260,
+    "original": "今天 会 下雨 吗?",
+    "pronunciation": "Jīntiān huì xiàyǔ ma?",
+    "meaning": "Will it rain today?",
+    "lesson_id": 14
+  },
+  {
+    "id": 261,
+    "original": "今天 不 会 下雨.",
+    "pronunciation": "Jīntiān bù huì xià yǔ.",
+    "meaning": "It will not rain today.",
+    "lesson_id": 14
+  },
+  {
+    "id": 262,
+    "original": "王 小姐 今天 会 来 吗?",
+    "pronunciation": "Wáng xiǎojiě jīntiān huì lái ma?",
+    "meaning": "Will Miss Wang come today?",
+    "lesson_id": 14
+  },
+  {
+    "id": 263,
+    "original": "不 会 来，天气 太 冷 了.",
+    "pronunciation": "Bù huì lái, tiānqì tài lěng le.",
+    "meaning": "Will not come, weather too cold.",
+    "lesson_id": 14
   }
 ]
