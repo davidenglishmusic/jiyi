@@ -3,12 +3,13 @@
 
   <% @translations.each do |group| %>
     <h2>Lesson <%= group.first %></h2>
+    <% sorted_translations = group.last.sort %>
     <%= button_to 'Review',
-      translation_path(group.last.first),
+      translation_path(sorted_translations.first),
       class: 'px-8 py-2 font-semibold text-sm bg-sky-500 text-white rounded-none shadow-sm',
       method: :get %>
     <ul>
-      <% group.last.sort.each do |translation| %>
+      <% sorted_translations.each do |translation| %>
         <li>
           <%= translation.original %>
           <%= translation.pronunciation %>
