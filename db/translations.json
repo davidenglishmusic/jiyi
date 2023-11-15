@@ -1895,5 +1895,33 @@
     "pronunciation": "zhèxiē",
     "meaning": "these",
     "lesson_id": 15
+  },
+  {
+    "id": 271,
+    "original": "喂, 你 在 干 什么 呢?",
+    "pronunciation": "Wèi, nǐ zài zuò shénme ne?",
+    "meaning": "Hello, what are you doing?",
+    "lesson_id": 15
+  },
+  {
+    "id": 272,
+    "original": "我 在 看书 呢.",
+    "pronunciation": "Wǒ zài kànshū ne.",
+    "meaning": "I am reading a book.",
+    "lesson_id": 15
+  },
+  {
+    "id": 273,
+    "original": "大卫 也 在 看书 吗?",
+    "pronunciation": "Dà wèi yě zài kànshū ma?",
+    "meaning": "David is reading a book too?",
+    "lesson_id": 15
+  },
+  {
+    "id": 274,
+    "original": "他 没 看书, 他 在 学 做 中国 菜 呢.",
+    "pronunciation": "Tā méi kànshū, tā zàixué zuò zhōngguó cài ne.",
+    "meaning": "He is not reading, he is learning to cook Chinese food.",
+    "lesson_id": 15
   }
 ]
